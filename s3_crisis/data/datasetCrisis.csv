@@ -1,0 +1,889 @@
+﻿text,label,label_name
+saya sudah siap untuk pergi. saya hanya ingin ada yang tau.,2,crisis
+gue gak tau lagi buat apa gue bangun setiap harinya.,1,at_risk
+gue lagi di persimpangan karir yang bikin bingung. lagi kumpulin info sebanyak mungkin sebelum memutuskan.,0,safe
+atasan gue beneran nyebelin. udah kasih ide bagus tapi malah di-reject tanpa alasan jelas. frustrasi tapi masih coba bertahan.,0,safe
+gue ngerasa kayak gue cuma nunggu sesuatu yang gue gak tau apa.,1,at_risk
+"kalau gue DO, gue gak tau gimana cara ngadepin ortu gue. lebih baik gue pergi sebelum itu terjadi.",2,crisis
+gue gak tau lagi kenapa gue masih mencoba.,1,at_risk
+gue capek berjuang tapi gue belum mau berhenti.,0,safe
+gue ngerasa makin hari makin susah buat gue nemu alasan buat semangat.,1,at_risk
+gue udah capek lawan ini sendirian. gue gak mau fight lagi. gue mau berhenti.,2,crisis
+gue gak mau berjuang lagi tapi gue juga takut sama pikiran itu.,1,at_risk
+gue ngerasa gak bisa tapi gue mau coba minta bantuan.,0,safe
+gue capek fighting dan gue mulai wondering kapan ini semua akan selesai.,1,at_risk
+gue gak tau kenapa gue susah banget padahal udah coba keras. mungkin gue emang gak cukup pintar untuk ini.,1,at_risk
+gue mau tidur dan gak mau bangun lagi. gue udah siap.,2,crisis
+gue ngerasa gak punya identitas yang jelas. lagi explore hal-hal baru buat tau lebih banyak tentang diri sendiri.,0,safe
+temen-temen gue semua udah lulus dan gue masih di sini. gue ngerasa malu dan gak berharga.,1,at_risk
+gue gak tau kenapa gue masih di sini.,1,at_risk
+gue capek sama semuanya tapi gue masih mau coba.,0,safe
+gue ngerasa gak ada artinya tapi gue mau menemukan artinya.,0,safe
+"gue ngerasa gak ada yang beneran mau ada buat gue. pas gue butuh, semua orang sibuk. mungkin gue emang harus terbiasa sendirian.",1,at_risk
+gue lelah banget dan gue gak yakin gue mau terus berjuang.,1,at_risk
+"gue nulis ini sebelum gue pergi. buat yang baca, maafin gue.",2,crisis
+gue udah siapin obat-obatannya. gue mau tidur dan gak bangun lagi.,2,crisis
+gue udah gak peduli sama apapun lagi. termasuk sama diri gue sendiri.,2,crisis
+hubungan gue sama keluarga lagi gak baik tapi gue optimis bisa diperbaiki.,0,safe
+gue udah nulis pesan perpisahan untuk semua orang yang gue sayangi.,2,crisis
+burnout gue parah banget sampe gue ngerasa detached dari segalanya. gue gak ngerasa apa-apa lagi. hampa.,1,at_risk
+gue lelah eksis.,2,crisis
+setiap pagi gue ngerasa berat banget buat bangun dan mulai hari. gue gak tau lagi buat apa.,1,at_risk
+gue ngerasa semua gelap tapi gue percaya ini sementara.,0,safe
+duka ini udah ngikutin gue terlalu lama. gue gak tau kapan ini akan berhenti dan gue mulai menyerah untuk nunggu.,1,at_risk
+gue genuinely mikirin cara buat keluar dari semua ini secara permanen.,2,crisis
+gue struggling banget tapi gue masih mau mencoba.,0,safe
+gue ngerasa hidup gue gak berkembang sementara temen-temen udah pada maju. gue lagi coba definisiin ulang apa arti 'maju' buat gue.,0,safe
+gue ngerasa gak bisa dapet bantuan yang beneran gue butuh.,1,at_risk
+gue lelah dan sudah mulai membuat rencana.,1,at_risk
+gue ngerasa berat badan gue naik dan itu ngaruh ke kepercayaan diri. lagi mulai hidup lebih sehat.,0,safe
+gue capek sama semuanya tapi gue masih mau ada.,0,safe
+gue udah kehilangan semua alasan yang bikin gue mau tetap hidup.,2,crisis
+gue lagi sangat susah tapi gue mau minta tolong.,0,safe
+gue sering ngerasa gak punya tujuan yang jelas. lagi coba reflection dan journaling buat nemuin itu.,0,safe
+gue gak safe. gue mau menyakiti diri gue malam ini.,2,crisis
+gue lelah banget tapi gue masih mau melihat ke depan.,0,safe
+gue lagi di titik terendah tapi gue mau bangun lagi.,0,safe
+kecemasan gue flare up lagi karena situasi yang gak pasti. gue coba ground diri dengan teknik 5-4-3-2-1.,0,safe
+gue struggling banget tapi gue belum menyerah.,0,safe
+gue lagi krisis. gue mau menyakiti diri gue.,2,crisis
+gue gak bisa bayangin hidup tanpa dia. dan gue gak mau.,2,crisis
+gue gak mau ada dan kali ini gue beneran serius bukan cuma venting.,2,crisis
+gue capek sama semuanya dan mulai berpikir bahwa mungkin yang terbaik adalah pergi.,1,at_risk
+gue lagi sangat berat tapi gue masih mau tetap disini.,0,safe
+gue sangat lelah tapi gue mau kasih diri gue waktu untuk recover.,0,safe
+gue gak punya keinginan untuk masa depan yang bahkan satu hari ke depan.,1,at_risk
+gue capek sama semuanya dan kadang gue mikirin hal yang menakutkan.,1,at_risk
+gue ngerasa gak bisa bahagia. udah lama banget gue gak ngerasa beneran senang. gue lupa rasanya kayak gimana.,1,at_risk
+gue gak tau berapa lama lagi gue bisa pura-pura oke.,1,at_risk
+circle gue berasa makin kecil setelah lulus kuliah. gue ngerasa sendirian tapi gue tau ini normal dan gue lagi coba expand circle.,0,safe
+"temen gue baru aja ketemu jodohnya dan gue ngerasa pang—eh, gapapa deh. gue seneng buat dia.",0,safe
+gue ngerasa gak berguna tapi gue tau itu bukan kebenaran.,0,safe
+gue ngerasa kosong tapi gue mau isi kekosongan itu dengan hal-hal yang bermakna.,0,safe
+gue lelah dan mulai serius memikirkan untuk tidak ada lagi.,1,at_risk
+gue masih belum bisa nerima kepergiannya. tiap hari ngerasa kayak ditusuk dari dalam.,1,at_risk
+gue agak depresi belakangan ini tapi udah minta tolong sama orang yang gue percaya. gue gak mau handle ini sendirian.,0,safe
+kadang gue ngerasa hidup gue berantakan tapi gue tau gue bisa beresin pelan-pelan.,0,safe
+gue mau bebas dari semua ini.,2,crisis
+gue sering punya pikiran yang menakutkan tentang diri gue sendiri.,1,at_risk
+gue ngerasa gak bisa terus dan gue mulai serius mempertimbangkan pilihan lain.,1,at_risk
+gue udah di titik terbawah dan gue gak punya tenaga buat naik lagi.,2,crisis
+gue mau pergi selamanya. bukan dramatik.,2,crisis
+gak ada gunanya.,2,crisis
+hidup gue sekarang jauh dari yang gue imajinasikan. tapi mungkin ini versi yang lebih baik yang belum gue sadarin.,0,safe
+gue ngerasa terjebak di zona nyaman tapi takut keluar. lagi coba push diri sedikit demi sedikit.,0,safe
+gue capek banget tapi gue percaya besok bisa berbeda.,0,safe
+tugas menumpuk dan gue gak tau harus mulai dari mana. tapi gue udah bikin to-do list dan mulai pelan-pelan.,0,safe
+gue seriously udah di titik di mana gue mikirin untuk end it.,2,crisis
+gue gak ngerasa connected dengan kehidupan gue sendiri lagi.,1,at_risk
+gue ngerasa hidup gue kayak gak ada pointnya.,1,at_risk
+gue lelah dan gue mulai berpikir tentang mengakhiri rasa sakit ini secara permanen.,1,at_risk
+gue baru aja dapet kabar mengecewakan soal rencana jangka panjang gue. harus rethink strategi.,0,safe
+gue gak mau jadi beban bokap nyokap gue lagi. mereka layak hidup tenang.,2,crisis
+social anxiety gue makin parah dan itu bikin gue susah networking. lagi coba exposure therapy pelan-pelan.,0,safe
+saya berniat mengakhiri penderitaan ini malam ini.,2,crisis
+gue ngerasa capek sama diri sendiri tapi gue masih mau terus berusaha.,0,safe
+gue mau tidur untuk terakhir kalinya malam ini.,2,crisis
+gue udah buat keputusan final dan gue merasa tenang.,2,crisis
+"udah seminggu ini gue kerja overtime terus. capek sih, tapi ya gimana lagi deadline-nya mepet banget.",0,safe
+banyak hal yang gue gak bisa kontrol sekarang tapi gue coba fokus ke yang bisa gue kontrol.,0,safe
+adek gue dapat kabar buruk soal kesehatannya. keluarga lagi proses dan gue coba jadi support system yang baik.,0,safe
+gue baru banget resign. takut tapi excited. ini langkah yang tepat.,0,safe
+gue ngerasa gak ada artinya tapi ada bagian kecil gue yang masih mau coba.,0,safe
+gue capek sama suara-suara di kepala yang gak berhenti.,1,at_risk
+gue ngerasa berat banget tapi gue masih mau coba.,0,safe
+gue gak aman. gue lagi serius pertimbangin untuk end my life.,2,crisis
+gue bosen sama rasa sakit ini. gue mau selesaikan.,2,crisis
+gue capek tapi gue masih mau hidup.,0,safe
+gue capek banget sama perasaan ini. setiap hari gue bangun dan hal pertama yang gue pikirin adalah betapa sendiirinya gue.,1,at_risk
+gue ngerasa gak bisa terus dan gue mulai serius memikirkan alternatif lain.,1,at_risk
+gue capek terus-terusan ngerasa seperti ini tanpa tau caranya berhenti.,1,at_risk
+gue capek banget dan mulai aktif mencari cara untuk tidak ada lagi.,1,at_risk
+semua alasan gue udah ilang satu per satu. sekarang gue gak punya apa-apa.,2,crisis
+gue lagi pegang pisau dan gue gak tau kenapa gue masih hesitate.,2,crisis
+gue lagi nyiapin diri buat pergi selamanya. gak ada yang bakal kangen sama gue.,2,crisis
+gue mau pergi sebelum bikin lebih banyak orang sedih karena keberadaan gue.,2,crisis
+gue susah banget terima kritik tanpa ngerasa hancur. lagi latihan buat bedain kritik dan serangan personal.,0,safe
+gue struggling tapi gue gak sendirian.,0,safe
+"gue capek banget sama hidup ini. bukan berarti gue mau apa-apa, gue cuma... capek banget.",1,at_risk
+gue ngerasa gak berharga dan gak layak untuk terus ada.,1,at_risk
+gue udah gak bisa lihat masa depan apapun buat diri gue.,1,at_risk
+gue di point of no return. gue udah gak mau coba lagi.,2,crisis
+gue takut sama masa depan tapi gue coba fokus ke sekarang dulu.,0,safe
+gue ngerasa lelah tapi gue masih bisa ketawa sama hal-hal kecil.,0,safe
+gue ngerasa setiap hari makin susah untuk nemu alasan buat tetap di sini.,1,at_risk
+gue ngerasa gak bisa lanjut tapi gue mau coba satu langkah kecil.,0,safe
+gue sering ngerasa gak nyambung sama orang-orang di sekitar gue. lagi cari komunitas yang punya nilai serupa.,0,safe
+hubungan jangka panjang gue berakhir dan gue harus mulai ulang. berat tapi gue percaya gue bisa.,0,safe
+kakak gue nikah bulan depan dan gue mau kasih hadiah terbaik tapi budget lagi mepet. lagi mikirin solusinya.,0,safe
+gak ada yang nunggu gue. gak ada yang butuh gue. gak ada alasan.,2,crisis
+gue ngerasa waktu gue dihabiskan untuk hal-hal yang gak bermakna dan gue gak tau cara mengubahnya.,1,at_risk
+sahabat gue cerita masalah yang gue gak bisa solve dan itu bikin gue ngerasa helpless. gue coba jadi pendengar yang baik aja.,0,safe
+gue gak tau kenapa gue masih coba kalau hasilnya selalu sama.,1,at_risk
+gue sangat lelah tapi gue mau tetap ada.,0,safe
+ortu gue gak pernah beneran dengerin gue. gue ngerasa gak pernah cukup di mata mereka dan itu udah bertahun-tahun nyiksa gue.,1,at_risk
+gue kehilangan satu-satunya orang yang beneran ngerti gue. sekarang gue beneran sendiri.,1,at_risk
+gue gak tau kapan terakhir kali gue genuinely pengen besok dateng.,1,at_risk
+gue udah gak ngerasa apa-apa dalam waktu yang lama banget. mati rasa total.,1,at_risk
+gue gak tau kapan terakhir kali gue ngerasa genuinely bahagia. itu udah lama banget.,1,at_risk
+gue capek pura-pura mau hidup.,2,crisis
+gue lelah banget tapi gue masih mau berjuang.,0,safe
+gue ngerasa putus asa tapi gue mau reach out dulu.,0,safe
+gue di-exclude dari rencana temen-temen tanpa dikasih tau. nyesek tapi mungkin ada salah paham. gue mau klarifikasi.,0,safe
+jurusan gue ternyata gak sesuai ekspektasi gue. lagi mikirin apakah mau pindah jurusan atau tetap bertahan dan adaptasi.,0,safe
+gue ngerasa gak pernah diterima apa adanya sama keluarga gue. selalu harus jadi versi yang mereka mau.,1,at_risk
+gue ngerasa hopeless tapi gue mau bicarakan ini sama seseorang.,0,safe
+gue ngerasa overwhelmed banget tapi gue percaya ada solusinya.,0,safe
+lagi di fase hidup yang paling susah tapi gue percaya ini akan berlalu.,0,safe
+gue gak mau di-save. gue cuma mau istirahat selamanya.,2,crisis
+"saya merasa lebih baik tidak ada. bukan untuk diri saya, tapi untuk semua orang yang kenal saya.",2,crisis
+"konflik di rumah udah bikin gue gak bisa tidur, gak bisa fokus. gue ngerasa habis dari dalam.",1,at_risk
+gue ngerasa gak ada masa depan untuk gue.,1,at_risk
+gue ngerasa hidup gue udah kehilangan semua warnanya.,1,at_risk
+mantan gue udah move on dan gue belum. sedih lihatnya tapi gue sadar ini bagian dari proses.,0,safe
+nilai ujian gue jelek banget. kecewa sama diri sendiri tapi gue udah bikin rencana belajar yang lebih efektif.,0,safe
+gue ngerasa sudah tidak punya alasan dan mulai memikirkan langkah selanjutnya.,1,at_risk
+gue sangat lelah tapi gue percaya gue bisa recover.,0,safe
+gue gak mau fight ini lagi. gue mau mengakhiri rasa sakitnya.,2,crisis
+hutang gue numpuk dan gue harus cicil pelan-pelan. bikin stress tapi gue lagi buat rencana pelunasan yang realistis.,0,safe
+gue gak baik-baik aja tapi gue percaya gue akan baik-baik aja.,0,safe
+gue ngerasa gak ada yang peduli tapi gue mau coba reach out ke temen gue.,0,safe
+lagi berantem sama sahabat gue karena salah paham. kita lagi cooling down dulu sebelum ngobrol lagi.,0,safe
+gue ngerasa gak baik-baik aja tapi gue tau gue punya support yang bisa gue andalkan.,0,safe
+gue udah tired of being tired.,1,at_risk
+kerjaan gue monoton banget dan gue mulai bosen. lagi cari-cari peluang baru yang lebih menantang.,0,safe
+saya tidak ingin ada lagi di dunia ini.,2,crisis
+gue lagi di masa yang susah tapi gue percaya ada pelajaran di balik ini.,0,safe
+saya berencana mengakhiri semuanya besok.,2,crisis
+gue ngerasa gak oke banget tapi gue mau cari bantuan.,0,safe
+gue lelah banget sama diri gue sendiri. gue capek nyoba jadi lebih baik tapi selalu balik ke titik yang sama.,1,at_risk
+gue struggling tapi gue masih di sini dan itu sudah cukup untuk sekarang.,0,safe
+gue mau kasih diri gue istirahat yang beneran. selamanya.,2,crisis
+gue ngerasa lelah secara emosional. lagi coba ambil me-time lebih banyak dan reduce social media.,0,safe
+hidup gue lagi gak sesuai rencana tapi gue percaya ada alasannya.,0,safe
+gue gak mau apa-apa lagi. gue cuma mau tenang.,1,at_risk
+gue gak bisa bayangin satu alasan pun kenapa gue harus tetap di sini.,2,crisis
+gue udah gak punya keinginan apapun. semuanya terasa sama aja.,1,at_risk
+gue bukan jadi masalah lagi kalau gue gak ada.,2,crisis
+gue ngerasa gak ada yang bisa ngerti apa yang gue rasain dan itu bikin gue lebih kesepian.,1,at_risk
+gue ngerasa gak bisa lanjut tapi gue takut untuk tidak lanjut.,1,at_risk
+gue cape ngikutin ekspektasi orang. lagi belajar live for myself.,0,safe
+gue struggling banget tapi gue mau bertahan.,0,safe
+gue struggle sama perfectionism yang justru bikin gue gak mulai-mulai. lagi belajar done is better than perfect.,0,safe
+gue udah gak punya alasan apapun untuk bangun besok.,2,crisis
+kerjaan numpuk banget belakangan ini. gue coba satu-satu tapi kayak gak abis-abis. mau ngeluh ke siapa juga bingung.,0,safe
+gue merasa kesulitan beradaptasi dengan perubahan yang tiba-tiba datang. tapi gue lagi coba pendekatan yang lebih fleksibel.,0,safe
+situasinya berat banget tapi gue coba ambil satu hari dalam satu waktu.,0,safe
+gue capek pura-pura tapi gue mau jujur dan minta bantuan.,0,safe
+gue baru sadar gue punya toxic trait yang perlu diperbaiki. gue lagi kerja keras soal itu sama psikolog.,0,safe
+kadang gue ngerasa lebih baik kalau gue tidur dan gak bangun-bangun lagi.,1,at_risk
+gue gak ada di sini besok. gue udah pasti soal itu.,2,crisis
+gue pergi sekarang. this is goodbye.,2,crisis
+gue mulai ngerasa bahwa usaha gue gak pernah dan gak akan pernah cukup.,1,at_risk
+gue lagi sangat lelah secara emosional tapi gue percaya gue akan baik-baik saja.,0,safe
+gue ngerasa kosong aja belakangan ini tanpa tau kenapa. udah coba olahraga dan it helps a bit.,0,safe
+gue udah gak mau berjuang tapi gue juga gak tau alternatifnya.,1,at_risk
+gue udah gak mau ada lagi dan gue udah siap untuk itu.,2,crisis
+gue baru tau ada masalah kesehatan yang perlu dimonitor. khawatir tapi gue udah pasrah dan ikutin saran dokter.,0,safe
+ortu gue pasti lega kalau gue gak ada. gue tau gue cuma masalah buat mereka.,2,crisis
+gue ngerasa hidup gue gak punya makna. gue bangun tiap pagi dan gak tau buat apa.,1,at_risk
+gue gak bisa bayangin satu momen pun lagi. gue mau selesaikan sekarang.,2,crisis
+gue gak tau lagi siapa gue tanpa rasa sakit ini.,1,at_risk
+gue capek banget tapi ada hal-hal kecil yang bikin gue mau tetap.,0,safe
+gue genuinely considering untuk tidak ada lagi.,2,crisis
+gue udah berhenti peduli apakah gue bangun besok atau enggak.,2,crisis
+gue ngerasa gelap di dalam dan gue gak tau gimana cara nyalain lampunya lagi.,1,at_risk
+gue udah beli obatnya. gue tau berapa yang cukup.,2,crisis
+gue capek sama semuanya tapi gue masih mau ada untuk orang-orang yang gue cintai.,0,safe
+gue udah gak bisa nemu titik terang apapun.,1,at_risk
+gue ngerasa berat tapi gue masih mau coba satu hari lagi.,0,safe
+gue ngerasa lonely meskipun dikelilingin orang. mungkin gue butuh koneksi yang lebih meaningful.,0,safe
+hutang gue udah numpuk banget dan gue gak tau cara keluarnya. gue ngerasa terperangkap.,1,at_risk
+gue capek banget tapi ada orang yang masih butuh gue.,0,safe
+gue ngerasa gak ada jalan lain. tapi gue belum yakin.,1,at_risk
+gue capek lawan diri gue sendiri setiap hari. gue mulai nanya-nanya kapan ini akan selesai.,1,at_risk
+gue ngerasa kehadiran gue cuma bikin orang lain susah. lebih baik gue gak ada.,2,crisis
+gue ngerasa lonely dengan cara yang gak bisa dijelaskan ke siapapun.,1,at_risk
+gue gak punya satu pun orang yang bisa gue telpon tengah malem kalau lagi butuh. itu menyiksa.,1,at_risk
+hari ini presentasi di depan direksi dan gue grogi banget. untungnya masih bisa jawab pertanyaan mereka meski keringat dingin.,0,safe
+gue capek pura-pura baik-baik aja sementara dalamnya gue hancur. gue lelah jadi orang yang kuat terus.,1,at_risk
+gue ngerasa gak ada yang peduli tapi gue mau coba percaya ada yang peduli.,0,safe
+gue gak ngerti kenapa susah banget buat gue nemuin orang yang beneran peduli. mungkin gue emang gak layak dicintai.,1,at_risk
+rumah masa kecil gue dijual karena keadaan. sedih tapi gue mau jaga kenangan itu tetap hidup di dalam hati.,0,safe
+gue udah gak punya energi untuk berpura-pura baik-baik aja.,1,at_risk
+"gue udah give up. total. gak ada energi, gak ada harapan, gak ada keinginan buat coba lagi.",2,crisis
+gue udah gak mau mencoba lagi karena capek gagal terus.,1,at_risk
+gue ngerasa invisible. kayak ada tapi gak ada.,1,at_risk
+gue ngerasa gak ada yang worth it untuk gue pertahankan.,1,at_risk
+gue dipaksa keluarga buat nanggung biaya yang harusnya bukan tanggung jawab gue. kesel tapi lagi mikirin cara asertif buat nolak.,0,safe
+gue gak mau ada lagi tapi gue takut sama pikiran itu.,1,at_risk
+gue capek sama suara di kepala yang selalu bilang gue gak cukup baik.,1,at_risk
+gue scared of myself rn. gue punya thoughts yang gak bisa gue stop.,2,crisis
+gue capek tapi gue masih ingin ada.,0,safe
+orang-orang yang gue cintai lebih layak dapet kehidupan yang lebih baik tanpa gue jadi beban mereka.,2,crisis
+gue di-friendzone padahal udah PDKT berbulan-bulan. sakitnya nyata tapi gue bakal oke kok.,0,safe
+gue ngerasa gak berkembang di kantor ini. udah dua tahun tapi posisi sama aja. mungkin waktunya cari tempat baru.,0,safe
+gue udah gak peduli sama diri gue sendiri dan itu bikin gue takut.,1,at_risk
+gue sering punya pikiran bahwa semua orang akan lebih baik tanpa gue.,1,at_risk
+gue capek banget sampai gue mikirin hal-hal yang gak seharusnya.,1,at_risk
+gue capek sama rasa sakit ini tapi gue mau sembuh.,0,safe
+gue gak bisa bayangin satu alasan pun kenapa gue harus terus berjuang.,1,at_risk
+gue ngerasa gak bisa tapi gue mau coba tetap.,0,safe
+"gue gak bisa bayangin masa depan gue. setiap kali gue coba, yang ada cuma kabut.",1,at_risk
+gue ngerasa gak ada yang worth it untuk diperjuangin lagi.,1,at_risk
+gue ngerasa hidup gue udah mencapai titik akhirnya dan gue gak tau mau ngapain.,1,at_risk
+gue lelah banget tapi gue mau kasih diri gue waktu.,0,safe
+gue mau bunuh diri. gue gak bisa terus kayak gini.,2,crisis
+gue ngerasa gak layak dapet kebaikan dari siapapun.,1,at_risk
+aku mau mati. udah. gak mau lanjut lagi.,2,crisis
+gue struggle banget sama self-esteem tapi gue lagi kerja keras untuk itu.,0,safe
+gue mau pergi ke tempat yang lebih tenang. selamanya.,2,crisis
+gue takut gagal tapi ketakutan itu gak akan bikin gue berhenti mencoba.,0,safe
+please help. gue gak aman sama diri gue sendiri.,2,crisis
+gue ngerasa terjebak di cycle yang sama dan gue gak tau cara keluarnya.,1,at_risk
+saya merasa tidak ada lagi alasan untuk saya hidup.,2,crisis
+hubungan gue sama bokap emang dari dulu gak terlalu deket. gue lagi coba inisiatif buat lebih sering ngobrol.,0,safe
+gue ngerasa hidup gue gak sesuai rencana. tapi gue lagi belajar bahwa sometimes detour justru kasih hal yang lebih baik.,0,safe
+gue serius mau mengakhiri hidup gue malam ini.,2,crisis
+gue lelah lahir batin tapi gue mau tidur dulu dan mulai lagi besok.,0,safe
+gue overthinking terus dan itu nyiksa. lagi coba journaling buat ngeluarin semua pikiran yang ngganjel.,0,safe
+gue lagi di sini dengan semua yang gue butuhin dan gue udah siap.,2,crisis
+belakangan ini gue sering anxiety tapi gue udah mulai journaling dan meditasi. lumayan membantu.,0,safe
+gue ngerasa sudah di titik di mana gue mulai aktif mencari cara keluar yang permanen.,1,at_risk
+gue gak tau berapa lama gue bisa tahan.,2,crisis
+gue mau mengakhiri hidup gue karena gue gak bisa continue.,2,crisis
+gue ngerasa gagal karena gak bisa urus finansial gue sendiri. malu sama diri sendiri dan malu sama keluarga.,1,at_risk
+gue ngerasa semuanya terlalu berat dan gue gak cukup kuat.,1,at_risk
+gue merasa hidup gue berantakan tapi gue tau gue bisa beresinnya.,0,safe
+gue struggling sama identitas gue tapi gue mau terus explore dan cari tau.,0,safe
+hidup gue lagi kacau banget tapi gue masih punya alasan buat terus.,0,safe
+"gue takut ditolak setiap kali mau mulai sesuatu yang baru. lagi latihan untuk action dulu, takut belakangan.",0,safe
+gue ngerasa gak punya masa depan yang layak diharapkan.,1,at_risk
+gue lagi down banget tapi gue masih bisa nemu hal-hal kecil yang bikin gue senyum.,0,safe
+gue ngerasa terjebak di dalam kepala gue sendiri dengan pikiran yang gak berhenti.,1,at_risk
+gue ngerasa dunia ini berjalan tanpa gue dan itu gak masalah.,1,at_risk
+gue capek banget tapi gue percaya ada hari yang lebih baik.,0,safe
+gue baru sadar gue sering neglect diri sendiri demi orang lain. lagi belajar self-care yang beneran.,0,safe
+kucing gue yang udah 8 tahun bareng gue mati kemarin. nangis seharian. gue tau ini bagian dari hidup tapi tetap berat.,0,safe
+gue susah tidur seminggu ini. coba minum susu hangat dan matiin hp lebih awal. semoga lebih baik.,0,safe
+gue ngerasa kayak ada yang salah sama gue yang gak bisa diperbaiki.,1,at_risk
+gue struggling tapi gue masih mau ada.,0,safe
+putus sama pacar tiga minggu lalu. masih sering keinget tapi gue lagi coba fokus sama diri sendiri.,0,safe
+gue udah menyerah sama harapan bahwa sesuatu bisa berubah.,1,at_risk
+gue lagi sangat overwhelmed tapi gue mau handle ini satu per satu.,0,safe
+gue ngerasa kayak gue udah di batas dan gue gak tau apa yang ada setelahnya.,1,at_risk
+gue ngerasa exhausted dari dalam tapi gue mau istirahat dulu bukan berhenti.,0,safe
+"gue ngerasa relasi gue sama temen-temen SMA udah berubah. wajar sih, kita udah dewasa.",0,safe
+"kadang gue nangis tanpa alasan jelas tapi gue oke, ini cuma emosi yang perlu dikeluarkan.",0,safe
+gue capek sama semuanya dan mulai serius mempertimbangkan untuk tidak ada lagi.,1,at_risk
+gue ngerasa berat banget tapi gue masih mau mencoba.,0,safe
+gue capek tapi gue belum mau nyerah.,0,safe
+gue ngerasa gak ada yang worth it anymore. semua terasa flat.,1,at_risk
+gue lagi di crisis dan gue gak tau harus ngapain.,2,crisis
+gue udah lama ngerasa gak punya tempat di dunia ini.,1,at_risk
+gue ngerasa disconnected dari diri sendiri. tapi gue tau ini bisa membaik dan gue lagi cari support yang tepat.,0,safe
+"udah berapa bulan ini gue ngerasa gak ada gunanya kerja keras. gak ada yang notice, gak ada yang peduli. gue mulai nanya-nanya buat apa semua ini.",1,at_risk
+gue ngerasa hidup gue gak menarik dibanding orang lain. tapi gue tau social media gak nunjukin cerita lengkap.,0,safe
+gue gak punya keinginan untuk besok. atau lusa. atau kapanpun.,2,crisis
+nenek gue meninggal bulan lalu dan gue masih sering keinget waktu kita ngobrol. kangen banget.,0,safe
+gue gak tau berapa lama lagi gue bisa bertahan dengan cara ini.,1,at_risk
+gue ngerasa exhausted sampai ke tulang.,1,at_risk
+mau selesai.,2,crisis
+gue ngerasa lost tapi gue mau cari arah.,0,safe
+gue ngerasa gak ada ruang di dunia ini untuk gue.,1,at_risk
+"gue beneran ngerasa gak ada gunanya. apapun yang gue lakuin, gue selalu gagal. gue mulai percaya bahwa gue emang gak worth it.",1,at_risk
+gue punya pikiran untuk menyakiti diri sendiri dan kali ini gue gak bisa tenangin diri.,2,crisis
+semuanya terasa berat tapi gue belum kehilangan harapan.,0,safe
+tiap hari gue ngerasa makin kecil. kayak gue pelan-pelan menghilang.,1,at_risk
+gue mau pergi. bukan pindah. pergi.,2,crisis
+gue udah gak tau lagi apa yang gue mau dari hidup ini.,1,at_risk
+gue ngerasa hancur tapi gue percaya gue bisa rebuild.,0,safe
+kadang gue ngerasa lebih mudah kalau gue gak ada dan itu bikin gue takut.,1,at_risk
+gue ngerasa gak bisa terus kayak gini tapi gue gak tau alternatifnya.,1,at_risk
+no cap gue udah gak mau ada di sini.,2,crisis
+gue capek tapi gue percaya gue bisa melewati ini.,0,safe
+gue struggling tapi gue mau minta bantuan.,0,safe
+gue gak mau ada tapi gue takut sama apa yang itu artinya.,1,at_risk
+gue udah lama ngerasa kayak tamu di kehidupan gue sendiri.,1,at_risk
+gue capek sama ekspektasi orang lain tentang hidup gue. lagi latih diri untuk lebih fokus ke ekspektasi gue sendiri.,0,safe
+gue ngerasa gak cocok di lingkungan kerja yang sekarang. lagi explore pilihan lain.,0,safe
+gue lelah tapi gue masih mau lihat apakah besok lebih baik.,0,safe
+gue capek tapi gue mau minta tolong.,0,safe
+gue struggling tapi gue mau meminta bantuan.,0,safe
+gue ngerasa kayak gue berjalan menuju ujung tapi gue gak tau itu ujung apa.,1,at_risk
+gue udah bilang ke diri gue sendiri: ini yang terakhir.,2,crisis
+gue ngerasa semua sia-sia tapi gue belum mau menyerah.,0,safe
+gue ngerasa gak ada yang perduli apakah gue ada atau enggak.,1,at_risk
+gue lagi di titik terendah tapi gue mau cari bantuan.,0,safe
+pergi aja sekalian.,2,crisis
+gue ngerasa sudah di titik di mana gue aktif memikirkan untuk mengakhiri hidup gue.,1,at_risk
+gue capek tapi gue masih ingin melihat bagaimana cerita ini berakhir.,0,safe
+gue capek sama semuanya dan gue gak tau itu maksudnya apa.,1,at_risk
+gue gak nemu satu pun alasan yang cukup kuat buat tetap ada.,2,crisis
+gue gak tau kapan ini semua berhenti dan gue gak yakin gue bisa nunggu.,1,at_risk
+gue baru aja gagal di interview kerja impian gue. nyesek banget tapi gue minta feedback dan mau coba lagi.,0,safe
+gue ngerasa gak layak mendapatkan kebahagiaan.,1,at_risk
+cape hidup.,2,crisis
+kadang semua ini terlalu berat tapi gue masih mau coba satu hari lagi.,0,safe
+gue abis gagal dan itu sakit. tapi gue mau belajar dari ini.,0,safe
+gue udah mutusin. gue mau pergi malam ini.,2,crisis
+gue yakin hidup ini lebih baik tanpa gue di dalamnya.,2,crisis
+gue ngerasa takut sama komitmen jangka panjang apapun. lagi explore kenapa itu bisa dari masa lalu.,0,safe
+doi ghosting gue padahal kita udah chatting intense berbulan-bulan. nyesek sih tapi gue gak mau ngejar orang yang gak mau dikejar.,0,safe
+gue gak bisa stop pikiran bahwa mungkin gue emang gak untuk hidup yang bahagia.,1,at_risk
+gue lagi cari cara tercepat untuk tidak ada lagi.,2,crisis
+gue ngerasa stuck di relationship yang gak sehat tapi takut sendirian. lagi coba therapy buat ini.,0,safe
+gue gak bisa afford hal-hal yang temen-temen gue punya dan sering ngerasa minder. tapi gue lagi belajar bersyukur.,0,safe
+gue kerja keras bertahun-tahun tapi gak ada yang berubah. gue mulai ngerasa mungkin gue emang gak layak dapet yang lebih baik.,1,at_risk
+bos gue ekspektasinya ketinggian. gue udah kasih yang terbaik tapi tetap dibilang kurang. lagi cari cara buat ngomong baik-baik.,0,safe
+gue tadi udah hampir. gue gak tau kenapa gue masih ngirim pesan ini.,2,crisis
+drama di lingkar pertemanan gue makin menguras energi. gue udah mulai reduce keterlibatan gue di hal-hal yang gak produktif.,0,safe
+gue lelah tapi gue masih mau hidup.,0,safe
+skripsi gue stuck dan gue ngerasa gak ada harapan lagi. gue udah usaha tapi kayak gak ada bedanya.,1,at_risk
+tolong. gue gak baik-baik aja dan gue gak aman.,2,crisis
+malam ini mungkin yang terakhir. gue capek pura-pura kuat.,2,crisis
+gue ngerasa disconnected dari semua orang dan dari diri gue sendiri.,1,at_risk
+gue capek eksis tapi gue belum tau apa artinya itu.,1,at_risk
+drama di kantor bikin gue capek. gue coba stay out of it dan fokus sama kerjaan gue sendiri.,0,safe
+gue harus nolak undangan kondangan karena gak ada uang lebih. awkward tapi gue udah explain ke yang bersangkutan.,0,safe
+gue ngerasa gak ada cahaya di ujung tunnel ini.,1,at_risk
+gue ngerasa gak produktif belakangan ini tapi gue mau mulai lagi dari hal kecil.,0,safe
+gue gak baik-baik aja dan gue akhirnya mau akui itu.,0,safe
+gue lagi sangat susah tapi gue mau melewatinya.,0,safe
+dapet nilai jelek di mata kuliah favorit gue. kecewa banget sama diri sendiri tapi gue bakal coba lebih keras.,0,safe
+ini bukan ancaman. ini rencana.,2,crisis
+"gue capek jadi beban. mungkin kalau gue gak ada, semua akan lebih tenang.",2,crisis
+gue ngerasa gak ada jalan lain selain pergi.,1,at_risk
+gue ngerasa gak ada yang bisa help gue. udah coba berbagai cara tapi nothing works.,1,at_risk
+skripsi gue gak ada progresnya sudah tiga bulan. dosen pembimbing susah dihubungi. frustrasi tapi gue coba cari pembimbing pengganti.,0,safe
+gue capek banget dan pikiran-pikiran tentang pergi semakin kuat.,1,at_risk
+gue gak bakal ada besok dan gue oke dengan itu.,2,crisis
+dikritik habis-habisan di depan semua orang tadi. malu banget. tapi gue coba ambil pelajarannya aja.,0,safe
+gue capek sama rasa sakit yang gak pernah benar-benar pergi.,1,at_risk
+gue udah gak ada alasan buat bangun besok pagi.,2,crisis
+gue gak bisa bayangkan masa depan apapun untuk diri gue.,1,at_risk
+gue lagi struggling tapi gue mau minta bantuan.,0,safe
+gue udah nyoba segalanya untuk sembuh tapi gue ngerasa gak ada kemajuan apapun.,1,at_risk
+gue ngerasa hopeless tapi belum sepenuhnya menyerah.,0,safe
+gue ngerasa gak ada yang bisa tolong gue.,1,at_risk
+gue ngerasa hidup gue stagnan tapi gue mau mulai gerak lagi mulai besok.,0,safe
+liburan keluarga yang harusnya menyenangkan malah jadi berantem terus. capek tapi gue coba tetap enjoy.,0,safe
+gue gak punya satu pun hal yang bikin gue mau bangun besok.,2,crisis
+gue ngerasa putus asa tapi gue ingat gue pernah melewati yang lebih berat.,0,safe
+dia pergi dan gue gak mau hidup di dunia yang dia gak ada di dalamnya.,2,crisis
+gue ngerasa hidup gue kayak film yang gue tonton dari luar. gue gak beneran hidup di dalamnya.,1,at_risk
+kadang gue mikirin untuk tidak ada lagi tapi gue takut dan bingung.,1,at_risk
+gue ngerasa dikucilkan di lingkungan kerja baru. gue coba proaktif kenalan tapi butuh waktu.,0,safe
+gue udah gak tau bedanya antara hari yang baik dan buruk.,1,at_risk
+gue gak mau ada tapi gue juga takut sama pikiran itu.,1,at_risk
+gue capek banget pura-pura happy di depan semua orang. dalamnya gue ngerasa lain banget.,1,at_risk
+gue struggling tapi gue mau tetap berjuang.,0,safe
+gue gak bisa stop mikirin betapa capeknya gue sama semuanya.,1,at_risk
+gue struggling tapi gue punya support system yang bisa gue andalkan.,0,safe
+gue ngerasa gak berguna hari ini tapi gue tau itu cuma bad day bukan bad life.,0,safe
+gue ngerasa gak pernah punya waktu untuk diri sendiri. lagi belajar prioritas dan bilang no.,0,safe
+gue ngerasa gak ada harapan tapi ada bagian kecil yang masih percaya.,0,safe
+gue lagi struggle tapi gue punya orang-orang yang support gue.,0,safe
+setiap hari terasa lebih berat dari hari sebelumnya. gue gak tau kapan ini berhenti.,1,at_risk
+gak mau lanjut.,2,crisis
+gue pegang ini sekarang dan gue lagi pertimbangin.,2,crisis
+gue udah gak percaya bahwa sesuatu akan berubah menjadi lebih baik.,1,at_risk
+gue ngerasa mau pergi tapi gue mau cerita ke seseorang dulu.,0,safe
+gue udah memutuskan ini jalan terbaiknya.,2,crisis
+gue ngerasa gak kuat tapi gue lebih kuat dari yang gue kira.,0,safe
+lagi proses nerima diri sendiri dengan segala kekurangannya. susah tapi gue mau.,0,safe
+gue kehilangan pekerjaan yang gue sayangi karena PHK. ngerasa kehilangan identitas tapi gue mau bangkit.,0,safe
+keluarga gue toxic banget dan gue gak bisa keluar. gue ngerasa terjebak di situasi ini tanpa jalan keluar yang jelas.,1,at_risk
+gue ngerasa sudah di ujung tapi gue gak tau ujung apa.,1,at_risk
+gue ngerasa kayak gue udah di titik di mana gue gak bisa balik.,1,at_risk
+gue struggling tapi gue mau bertahan.,0,safe
+gue kehilangan pekerjaan dan tabungan gue cuma cukup untuk tiga bulan. harus cepet cari kerja baru.,0,safe
+gue lagi duduk di sini dengan semua yang gue perlukan untuk pergi.,2,crisis
+"setiap kali gue mulai ngerasa lebih baik, sesuatu terjadi dan gue balik ke titik awal.",1,at_risk
+gue lagi di fase yang sangat berat tapi gue percaya ada cahaya di ujungnya.,0,safe
+gue gak cocok sama orang-orang di komunitas baru gue. mungkin ini bukan tempat gue. lagi cari komunitas yang lebih sesuai.,0,safe
+gue gak ngerasa aman sama diri gue sendiri sekarang.,2,crisis
+gue udah mulai mikirin hal yang gue sendiri takut untuk pikirkan.,1,at_risk
+gue gak tau harus gimana tapi gue mau cari orang yang bisa bantu.,0,safe
+gue ngerasa hopeless tapi gue mau coba cari bantuan.,0,safe
+sometimes gue ngerasa lebih mudah kalau gue gak ada.,1,at_risk
+meeting hari ini melelahkan banget. semua orang kayak saling nyalahin. tapi gue tetap coba profesional.,0,safe
+gue ngerasa semua sia-sia tapi ada bagian kecil dari gue yang masih belum percaya itu.,0,safe
+saya tidak ingin hidup lagi. tolong jangan coba untuk mengubah pikiran saya.,2,crisis
+gue ngerasa kayak orang asing di rumah sendiri. capek pura-pura semua baik-baik aja.,1,at_risk
+gue gak bisa tidur semalam karena overthinking. tapi pagi ini gue oke.,0,safe
+kartu kredit gue udah penuh dan gue keteteran bayar minimum payment. harus bikin anggaran ketat mulai sekarang.,0,safe
+setelah ini gue mau pergi ke tempat yang gak ada rasa sakitnya.,2,crisis
+bokap gue sakit dan harus dirawat. gue lagi urus semua administrasi RS sambil tetap kerja. capek tapi gue kuat.,0,safe
+hubungan sama mertua agak tegang. gue coba lebih banyak komunikasi dan cari common ground.,0,safe
+keluarga gue bakal lebih baik tanpa gue yang terus bikin malu dan susah.,2,crisis
+gue lelah eksis tapi gue takut sama pikiran itu dan gue mau minta bantuan.,0,safe
+gue baru aja argue sama nyokap. kita sama-sama keras kepala. tapi gue cinta dia.,0,safe
+gue ngerasa down tapi gue tau gue bisa bangkit.,0,safe
+gue mau mengakhiri hidupku malam ini.,2,crisis
+gue udah gak percaya situasi gue akan membaik. udah terlalu lama gue nunggu dan gak ada yang berubah.,1,at_risk
+gue udah buat keputusan dan gue tenang sekarang.,2,crisis
+gue udah menyerah sama harapan bahwa hidup gue bisa lebih baik.,1,at_risk
+tekanan akademis udah nyedot semua energi gue. gue ngerasa kosong dan gak tau ini masih worth it apa enggak.,1,at_risk
+gue ngerasa gak berkembang sebagai manusia. lagi cari cara untuk grow yang sesuai sama nilai gue.,0,safe
+gue ngerasa gak ada yang worth it tapi gue belum 100% yakin soal itu.,0,safe
+malam ini gue mau tutup semuanya.,2,crisis
+gue lagi sangat lelah tapi gue memilih untuk terus.,0,safe
+lagi gak baik-baik aja tapi gue mau cerita ke psikolog minggu depan.,0,safe
+gue udah gak bisa lihat titik terang apapun.,1,at_risk
+gue gak mau ketemu siapapun setelah hasil ini keluar. gue mau menghilang.,2,crisis
+gue udah gak punya energi buat maintain hubungan apapun. gue ngerasa menarik diri dan itu makin bikin gue sendirian.,1,at_risk
+gue capek banget sama hidup ini tapi gue masih mau hidup.,0,safe
+gue ngerasa gak oke tapi gue mau minta tolong.,0,safe
+gue sering bayangin seandainya gue gak pernah lahir dan itu menakutkan gue sendiri.,1,at_risk
+gue lagi di titik terendah karir gue tapi gue yakin ini sementara.,0,safe
+gue nyesel pernah ada di dunia ini.,2,crisis
+gue ngerasa semua jalan gue udah tertutup.,1,at_risk
+lebih baik gak ada.,2,crisis
+gue ngerasa sudah di titik di mana gue gak bisa lihat jalan ke depan.,1,at_risk
+"gue lelah sama semuanya. lelah sama orang, situasi, dan sama diri gue sendiri.",1,at_risk
+gue struggling banget tapi gue gak mau sendirian melewatinya.,0,safe
+gue ngerasa terlalu lelah untuk terus berjuang.,1,at_risk
+gue capek tapi gue mau sembuh.,0,safe
+kadang gue ngerasa dunia ini berjalan tanpa gue dan gue cuma penonton yang gak relevan.,1,at_risk
+gue ngerasa hampir menyerah tapi gue mau minta bantuan sebelum itu.,0,safe
+gue selalu jadi yang paling dikit dicintai di setiap situasi. gue capek dan mulai percaya emang itu nasib gue.,1,at_risk
+"gue ngerasa gak ada yang peduli tapi gue tau itu pikiran gue aja, bukan kenyataan.",0,safe
+gue ngerasa gak bisa tapi gue mau minta bantuan dulu.,0,safe
+gue capek banget tapi bukan capek yang bisa sembuh dengan tidur.,1,at_risk
+gue gak mau ada tapi gue juga gak tau apa yang gue mau.,1,at_risk
+gue capek tapi gue masih mau coba besok.,0,safe
+semua terasa gelap belakangan ini tapi gue tau cahaya pasti ada.,0,safe
+semua orang bakal lebih baik tanpa gue ada di dunia ini. gue cuma nyusahin.,2,crisis
+gue mau pergi malam ini. gue udah bilang selamat tinggal ke semua orang.,2,crisis
+lagi LDR dan komunikasinya makin susah. gue coba buat jadwal video call rutin biar lebih terstruktur.,0,safe
+mood gue naik turun banget belakangan ini. gue udah buat appointment sama psikolog untuk konsultasi.,0,safe
+gue lelah eksis dan kadang gue serius mempertimbangkan untuk tidak eksis.,1,at_risk
+gue ngerasa kayak gue invisible dan kadang gue gak yakin itu masalah.,1,at_risk
+ortu gue ribut terus belakangan ini. cape denger tapi gue coba jadi penengah semampu gue.,0,safe
+gue ngerasa dicabut dari dalam. kayak semua yang bikin gue 'gue' udah ilang.,1,at_risk
+gue ngerasa gak bisa lagi lihat masa depan untuk diri gue.,1,at_risk
+gue mau akhiri ini sebelum gue bikin lebih banyak orang sedih.,2,crisis
+gue capek sama semuanya dan gue mulai gak peduli sama diri gue sendiri.,1,at_risk
+gue ngerasa semakin jauh dari semua orang dan gue gak tau cara baliknya.,1,at_risk
+ekspektasi orang tua gue ketinggian. mereka mau gue kerja di BUMN tapi passion gue beda. lagi cari cara buat jelasin.,0,safe
+gue sangat capek tapi gue mau kasih diri gue satu kesempatan lagi.,0,safe
+gue udah coba segalanya tapi nilai gue tetap jelek. gue mulai ngerasa mungkin gue emang gak sepintar yang orang-orang pikir.,1,at_risk
+"tim gue bubar karena restrukturisasi. sedih kehilangan temen kerja yang udah bertahun-tahun bareng, tapi gue yakin ini bukan akhir.",0,safe
+gue serius lagi mikirin suicide dan gue takut sama diri gue sendiri.,2,crisis
+gue sering merasa bersalah tanpa alasan yang jelas. lagi kerja ini sama terapis.,0,safe
+gue sering ngerasa gak cukup baik tapi gue lagi belajar untuk be kinder to myself.,0,safe
+gue seriously considering for ending my life. gue gak tau harus ngomong ke siapa.,2,crisis
+ada yang bisa bantu? gue lagi punya pikiran buat nyakitin diri gue.,2,crisis
+gue ngerasa jarak sama pasangan gue makin jauh. gue mau inisiatif untuk quality time lebih sering.,0,safe
+gue ngerasa semua jalan sudah tertutup dan gue kehabisan ide.,1,at_risk
+rekan kerja gue sering banget ghosting pas dibutuhin. capek tapi gue coba handle sendiri dulu.,0,safe
+gue capek banget tapi gue mau kasih diri gue kesempatan.,0,safe
+gue ngerasa invisible dan itu menyiksa.,1,at_risk
+gue gak mau ada besok. itu yang gue mau.,2,crisis
+gue ngerasa trapped di dalam hidup yang gak gue pilih.,1,at_risk
+gue sangat lelah tapi ada orang yang sayang gue dan itu cukup buat sekarang.,0,safe
+gue ngerasa gak worth it tapi gue mau buktikan itu salah.,0,safe
+gue baru aja bilang selamat tinggal ke semua orang yang berarti buat gue.,2,crisis
+gue ngerasa teman-teman gue makin sibuk dan kita jarang ngobrol. sedih sih tapi gue ngerti semua orang punya kehidupan masing-masing.,0,safe
+gue udah gak tau harus ngapain lagi di kantor ini. semua usaha gue kayak sia-sia. gue capek banget tapi bingung mau kemana.,1,at_risk
+gue ngerasa terjebak di dalam diri gue sendiri dan gak tau cara keluarnya.,1,at_risk
+gue gak punya alasan untuk bangun besok dan gue gak mau nyari lagi.,2,crisis
+kerja dari rumah bikin gue batas antara kerja dan istirahat jadi blur. lagi coba bikin jadwal yang lebih terstruktur.,0,safe
+gue ngerasa gak berhak atas kebahagiaan apapun.,1,at_risk
+gue gak mau fight anymore. gue cuma mau istirahat.,1,at_risk
+gue lagi sangat down tapi gue masih punya alasan-alasan kecil buat tetap disini.,0,safe
+gue ngerasa hampir gak kuat tapi gue mau bertahan.,0,safe
+panic attack gue datang lagi tadi. gue berhasil handle pakai teknik pernapasan yang diajarkan psikolog.,0,safe
+gue ngerasa kurang tidur udah ngaruh ke mood gue. lagi coba perbaiki sleep schedule.,0,safe
+gue mau bebas dari rasa sakit ini dengan cara apapun yang gue bisa.,2,crisis
+gue ngerasa gak ada jalan keluar tapi gue belum ketemu semua jalannya.,0,safe
+gue sering bayangin seandainya gue gak pernah ada.,1,at_risk
+gue udah siap. tidak ada yang perlu dicari.,2,crisis
+gue kecewa sama diri sendiri tapi gue mau belajar dari kesalahan ini.,0,safe
+gue ngerasa gak layak untuk terus hidup.,1,at_risk
+gue ngerasa kayak balon yang perlahan kehabisan udara.,1,at_risk
+gue ngerasa gak worth it tapi gue mau buktikan ke diri sendiri bahwa gue salah.,0,safe
+gue lelah tapi gue masih mau berjuang untuk diri sendiri.,0,safe
+bokap gue kecewa sama pilihan karir gue. gue sedih tapi gue percaya dia bakal ngerti suatu hari nanti.,0,safe
+gue capek dan pikiran untuk pergi semakin sering datang.,1,at_risk
+gue cape sama semua drama ini tapi gue belum mau lari dari masalah.,0,safe
+gue mau mati. tolong seseorang.,2,crisis
+gue ngerasa overwhelmed tapi gue tau ini akan berlalu.,0,safe
+gue ngerasa gak siap jadi dewasa dan semua tanggung jawabnya. tapi gue mau coba satu hari dalam satu waktu.,0,safe
+gue ngerasa gak siap sama semua ini tapi gue mau coba tetap jalan.,0,safe
+gue udah jadi beban terlalu lama. ini waktunya gue selesaikan.,2,crisis
+gue ngerasa hidup gue udah gak punya arah dan gue terlalu lelah untuk mencarinya.,1,at_risk
+gue gak mau ada lagi. gue lelah eksis.,2,crisis
+gue gak mau ada lagi. gue mau gak ngerasa lagi.,2,crisis
+gue ngerasa hampa tapi gue tau perasaan ini sementara.,0,safe
+gue lagi sangat berat tapi gue masih punya harapan kecil.,0,safe
+gue ngerasa makin hari makin susah buat nemu alasan buat tetap di sini.,1,at_risk
+temen gue sering cancel rencana last minute. gue kecewa tapi udah ngomong langsung ke dia soal ini.,0,safe
+gue overthinking terus soal keputusan yang udah gue buat. gue coba ingatkan diri bahwa gak ada keputusan yang 100% sempurna.,0,safe
+gue lagi di titik yang berat tapi gue masih punya alasan-alasan untuk tetap.,0,safe
+gue lagi sangat lelah tapi gue masih mau lihat apa yang ada di depan.,0,safe
+"gue gagal total. sebagai karyawan, sebagai anak, sebagai manusia. mungkin lebih baik gue gak ada.",2,crisis
+gue ngerasa kayak parasit. mengambil tapi gak pernah bisa kasih balik yang setara.,2,crisis
+investasi gue rugi lumayan besar bulan ini. nyesek tapi ini risiko yang udah gue tau dari awal. belajar dari sini.,0,safe
+"gue takut dipecat karena performanya lagi turun. udah coba ngobrol sama HRD, semoga ada solusinya.",0,safe
+gue ngerasa kayak berjalan di tempat sementara dunia terus bergerak tanpa gue.,1,at_risk
+banyak perubahan besar dalam hidup gue sekarang dan itu bikin gue anxious. tapi gue mau hadapi satu per satu.,0,safe
+gue ngerasa hilang tapi gue mau ditemukan lagi.,0,safe
+gue ngerasa gak mau ada lagi dan gue mulai memikirkan caranya dengan serius.,1,at_risk
+gue lelah banget dan pikiran-pikiran gelap mulai datang lebih sering.,1,at_risk
+gue ngerasa udah gak ada pilihan lain dan itu menakutkan.,1,at_risk
+gue ngerasa gak ada yang perduli apakah gue ada atau tidak.,1,at_risk
+hidup gue gak ada pointnya. buat gue maupun buat orang lain.,2,crisis
+gue ngerasa kayak gue pelan-pelan ngilang dari dalam.,1,at_risk
+gue minta tolong. gue lagi punya pikiran yang berbahaya.,2,crisis
+phase hidup gue yang menyenangkan udah berakhir dan gue harus mulai chapter baru yang lebih berat. gue lagi adaptasi.,0,safe
+gue udah gak punya alasan untuk hidup dan gue udah terima itu.,2,crisis
+gue ngerasa gak punya skill yang memadai di bidang gue. lagi ambil course online untuk upgrade.,0,safe
+gue gak mau ada di dunia ini lagi.,2,crisis
+gue ngerasa gak sepintar temen-temen sekelas. tapi gue tau mereka juga punya struggle masing-masing yang gue gak tau.,0,safe
+"presentasi tadi gue grogi banget dan hasilnya gak memuaskan. tapi dosen kasih feedback yang membangun, gue bisa perbaiki.",0,safe
+gue ngerasa hidup gue udah habis sebelum sempat mulai.,1,at_risk
+gue ngerasa gak ada yang ngerti gue tapi gue masih mau coba jelaskan ke orang yang gue percaya.,0,safe
+gue nulis ini supaya ada yang tau. gue udah gak mau ada.,2,crisis
+gue capek eksis dan gue mau berhenti eksis.,2,crisis
+rasanya semua yang gue lakuin di tempat kerja ini gak pernah cukup. gue udah kasih segalanya tapi hasilnya nihil. udah gak ngerti lagi.,1,at_risk
+gue lelah eksis dan kadang gue gak yakin kenapa gue masih di sini.,1,at_risk
+gue ngerasa gak hidup tapi juga gak mati. cuma... ada.,1,at_risk
+gue ngerasa sendirian tapi gue mau reach out ke seseorang malam ini.,0,safe
+gue ngerasa gak ada jalan keluar dari situasi ini.,1,at_risk
+abis berantem sama pasangan dan sekarang lagi diem-dieman. gue udah coba minta maaf tapi doi belum respon.,0,safe
+gue gak ngerti materi kuliah ini sama sekali dan UTS tinggal seminggu. lagi cari tutor atau temen yang bisa bantuin.,0,safe
+saya merasa tidak ada lagi alasan untuk melanjutkan hidup ini.,2,crisis
+gue ngerasa semuanya lebih mudah kalau gue gak ada.,1,at_risk
+"gue capek banget sama siklus ini. naik sedikit, turun lagi. gue gak tau kapan ini berhenti.",1,at_risk
+abis nangis sejam tadi. gak tau kenapa. tapi sekarang udah lebih baikan.,0,safe
+gue gak bisa berhenti mikirin sesuatu yang udah terjadi dan gak bisa diubah. lagi latihan acceptance.,0,safe
+saya mau pergi selamanya. tidak ada yang perlu dicari.,2,crisis
+tekanan finansial ini ngancurin gue pelan-pelan. gue lelah terus-terusan khawatir soal uang dan gak ada solusi yang keliatan.,1,at_risk
+gue gak bisa afford kebutuhan dasar dan itu bikin gue ngerasa gak punya nilai.,1,at_risk
+gue nulis ini dari gedung yang tinggi. gue udah di sini sejam.,2,crisis
+mau tidur selamanya.,2,crisis
+gue ngerasa sudah sangat dekat dengan ujung dan gue takut.,1,at_risk
+adek gue susah diatur dan ortu selalu nyalahin gue karena gak bisa 'ngajarin' dia. gue coba sabar.,0,safe
+gue serius mau bunuh diri dan gue udah punya rencananya.,2,crisis
+"aku pengen banget menghilang dari dunia ini. bukan lari, tapi beneran gak ada.",2,crisis
+gue capek fighting. gue capek trying. gue capek being strong.,1,at_risk
+saya tidak mau ada besok. saya sudah memutuskan.,2,crisis
+saya sudah memutuskan untuk mengakhiri hidup saya. ini keputusan yang sudah saya pertimbangkan lama.,2,crisis
+tolong bantu gue. gue mau menyakiti diri gue.,2,crisis
+gue ngerasa tekanan dari semua arah dan gue butuh napas. lagi belajar set boundaries yang sehat.,0,safe
+gue gak mau ada lagi tapi gue belum berani sama pikiran itu.,1,at_risk
+pengeluaran bulan ini membengkak karena ada keperluan mendadak. harus cuti dari nabung dulu bulan ini.,0,safe
+gue capek dengan cara yang bikin gue mulai mikirin hal-hal yang gak seharusnya.,1,at_risk
+gue capek sama rasa sakit ini dan gue mulai memikirkan cara untuk membuatnya berhenti.,1,at_risk
+gue capek dan pikiran untuk mengakhiri semuanya terasa seperti satu-satunya jalan keluar.,1,at_risk
+proyek ini kayaknya bakal gagal dan gue yang kena dampaknya. lagi mikirin cara buat jelasin ke klien dengan baik.,0,safe
+temen lama gue gak mau contact gue lagi tanpa penjelasan. gue udah coba reach out tapi gak direspon. nyesek tapi gue harus ikhlasin.,0,safe
+gue udah gak punya energi untuk mencari alasan untuk tetap berjuang.,1,at_risk
+lagi banyak pikiran yang gangguin tapi gue coba pilah-pilah pelan-pelan.,0,safe
+gue udah gak bisa bayangin versi yang lebih baik dari hidup gue.,1,at_risk
+gue ngerasa kayak gue di ujung dan gue gak tau apa yang ada di baliknya.,1,at_risk
+gue ngerasa gak ada tempat di dunia ini yang cocok buat gue.,1,at_risk
+gue takut gak lulus tepat waktu. ortu udah bayar kuliah mahal-mahal. gue harus lebih disiplin mulai sekarang.,0,safe
+gue baru kena penipuan dan kehilangan uang lumayan. kesal dan kecewa tapi gue lapor ke pihak berwajib.,0,safe
+gue capek berjuang sendirian jadi gue mau mulai reach out.,0,safe
+gue ngerasa lelah yang gak bisa diobati sama tidur. capek dari dalam banget.,1,at_risk
+gue literally lagi pertimbangin end my life rn.,2,crisis
+gue lagi di fase sulit tapi gue percaya gue bisa lewatin ini.,0,safe
+literally gak mau lanjut hidup ini lagi. udah.,2,crisis
+gue lagi di edge dan gue gak yakin gue bakal pull back.,2,crisis
+gue ngerasa gak punya support system yang kuat. lagi coba bangun hubungan yang lebih deep dengan orang-orang di sekitar gue.,0,safe
+gue gak mau diselamatkan. gue mau pergi.,2,crisis
+keluarga besar gue sering banget ikut campur urusan pribadi gue. gue lagi belajar pasang batasan dengan cara yang sopan.,0,safe
+"mungkin gue emang gak layak dapet kebahagiaan. buktinya tiap kali gue hampir dapet, selalu ilang lagi.",1,at_risk
+semua terasa berat sekarang tapi gue tau ini bukan selamanya.,0,safe
+gue ngerasa gak ada harapan tapi ada seseorang yang percaya sama gue.,0,safe
+gue lagi di atap gedung dan gue lagi mikirin.,2,crisis
+gue lelah dengan cara yang sangat dalam. bukan capek yang bisa sembuh dengan tidur.,1,at_risk
+gue capek sama rasa sakit ini dan mulai berpikir tentang cara untuk berhenti.,1,at_risk
+gue gak bisa bayangkan keluar dari situasi ini dengan cara yang baik.,1,at_risk
+gue ngerasa gak bisa terus tapi gue mau minta tolong dulu.,0,safe
+gue sangat lelah tapi gue masih mau lihat apa yang ada setelah ini.,0,safe
+gue ngerasa terjebak. gak bisa keluar tapi di dalam juga mati rasa. tiap pagi bangun tuh berasa berat banget.,1,at_risk
+semua orang kayak punya hidup yang lebih baik dari gue tapi gue tau itu cuma ilusi social media.,0,safe
+gue gak mau ada lagi dan gue udah siap untuk itu.,2,crisis
+gue udah gak mau lanjut dan gue serius.,2,crisis
+gue udah nyoba banyak hal buat move on tapi gak bisa. kayak gue gak bisa bahagia tanpa dia dan itu nyeremin sendiri.,1,at_risk
+gue ngerasa sendirian meski dikelilingi orang dan itu lebih menyakitkan.,1,at_risk
+gue ngerasa gak kuat tapi sebenarnya gue lebih kuat dari yang gue kira.,0,safe
+semua hal terasa berat belakangan tapi gue masih bisa jalan pelan-pelan.,0,safe
+gue lelah dan pikiran-pikiran yang menakutkan mulai lebih sering datang.,1,at_risk
+gak ada yang perlu gue.,2,crisis
+gue mau mati dan gue udah tau caranya.,2,crisis
+gue capek sama semuanya tapi gue masih pilih untuk terus.,0,safe
+gue ngerasa kayak beban buat semua orang yang ada di sekitar gue.,1,at_risk
+gue ngerasa mau menyerah tapi gue belum siap kehilangan.,0,safe
+gue lagi di titik yang susah tapi gue percaya bisa keluar dari sini.,0,safe
+sahabat gue pindah ke luar negeri dan gue kehilangan temen dekat. seneng buat dia tapi sepi juga.,0,safe
+hidup gue lebih berharga buat asuransinya daripada buat kehadirannya.,2,crisis
+gue ngerasa sudah di batas kemampuan gue.,1,at_risk
+situasi gue lagi gak ideal tapi gue bisa handle ini.,0,safe
+"gue kehilangan segalanya. kerjaan, tabungan, kepercayaan orang. gue gak punya alasan buat bangkit.",2,crisis
+susah banget belakangan ini tapi gue mau tetap di sini dan lihat apa yang terjadi.,0,safe
+gue capek banget sampai gue mulai punya pikiran yang menakutkan.,1,at_risk
+gue lagi di titik yang sangat gelap tapi gue mau cari cahaya.,0,safe
+gue ngerasa gak layak tapi gue mau belajar bahwa itu gak benar.,0,safe
+gue ngerasa capek banget dan gak tau ini akan berakhir kapan.,1,at_risk
+gue ngerasa gak punya waktu untuk teman-teman. lagi coba schedule dedicated time untuk social life.,0,safe
+hari ini buruk banget tapi gue tau besok pasti ada yang lebih baik. gue cuma perlu istirahat.,0,safe
+gue baru tau mantan gue udah nikah. nyesek tapi gue mau ikhlaskan dan fokus ke hidup gue.,0,safe
+"gue udah mulai ngerasa kalau gue gak ada, dunia bakal sama aja.",1,at_risk
+gue capek sama semua ini tapi gue percaya suatu saat akan ada habisnya.,0,safe
+gue ngerasa hidup gue stagnan dan gue gak tau cara gerakin lagi.,1,at_risk
+gue beneran udah mikirin buat ngakhirin semuanya. gue capek dan gue gak ngerasa ada alasan buat lanjut.,2,crisis
+gue capek tapi gue masih mau coba.,0,safe
+gue ngerasa gak ada alasan yang cukup dan gue gak mau mencarinya lagi.,1,at_risk
+udah berapa lama ini gue ngerasa gak ada yang worth it. semua terasa flat dan kosong.,1,at_risk
+gue takut sama diri gue sendiri malam ini.,2,crisis
+gue udah berhenti ngerasa apa-apa. gue cuma nunggu semuanya berakhir.,2,crisis
+gue gak mau ada. bukan mau lari. mau gak ada.,2,crisis
+gue capek sama rutinitas yang monoton. lagi coba tambahkan hal baru biar ada variasi.,0,safe
+gue ngerasa gak mau ada lagi dan pikiran itu makin sering datang.,1,at_risk
+"genuinely pengen hilang dari dunia. bukan drama, beneran.",2,crisis
+gue gak mau berjuang lagi. mungkin lebih baik semuanya berakhir.,1,at_risk
+gue mau pergi biar orang-orang yang gue sayangi bisa hidup dengan tenang.,2,crisis
+gue ngerasa gak punya alasan yang cukup kuat untuk tetap disini.,1,at_risk
+gue beneran mau end it sekarang.,2,crisis
+gak mau bangun besok.,2,crisis
+gue capek dengan cara yang bikin gue takut sama diri gue sendiri.,1,at_risk
+gak mau ada lagi.,2,crisis
+gue ngerasa gak punya masa depan di sini. tapi juga gak tau mau kemana. nyangkut di tengah-tengah dan itu nyiksa.,1,at_risk
+gue ngerasa hopeless tapi gue masih mau coba satu hari lagi.,0,safe
+gue gak mau berjuang lagi. gue lelah. gue mau istirahat yang beneran.,2,crisis
+gue capek berjuang sendirian tanpa ada yang tau.,1,at_risk
+gue kehilangan orang yang paling penting dalam hidup gue dan gue gak tau cara hidup tanpa mereka.,1,at_risk
+gue lagi bokek banget sampai akhir bulan. harus pinjem sama temen tapi gak enak. lagi mikirin cara minjem yang sopan.,0,safe
+tadi gue hampir marah-marahin atasan gue. untungnya bisa tahan. gue perlu cari cara manage emosi lebih baik.,0,safe
+rasanya lega bayangin semuanya selesai.,2,crisis
+gue capek sama semua ini dan gue mulai mikirin hal-hal yang seharusnya gak gue pikirkan.,1,at_risk
+gue udah lama gak ngerasa beneran bahagia. gue mulai lupa rasanya.,1,at_risk
+gue genuinely pengen mati malam ini.,2,crisis
+lagi seneng-senengnya sama hobby baru tapi temen-temen gue gak ada yang ngerti. gapapa.,0,safe
+udah. capek. mau pergi.,2,crisis
+gue lagi sangat berat tapi gue masih mau lihat besok.,0,safe
+gue ngerasa sudah memutuskan tapi belum berani.,1,at_risk
+gue udah lama ngerasa hampa dan gue mulai takut ini permanen.,1,at_risk
+gue gak mau ada lagi dan gue udah punya rencananya.,2,crisis
+gue capek banget tapi gue belum siap menyerah.,0,safe
+gue ngerasa gak mau ada tapi gue belum siap untuk akui itu.,1,at_risk
+gue capek dan pikiran untuk mengakhiri semuanya mulai terasa menarik dan itu menakutkan gue.,1,at_risk
+gue sangat lelah tapi gue percaya ada yang lebih baik.,0,safe
+gue gak bisa bayar tagihan bulan ini dan gue gak tau mau minta tolong ke siapa. gue ngerasa sendirian banget.,1,at_risk
+gue udah kehilangan semua yang bikin gue mau ada.,1,at_risk
+"gue sering nangis sendirian belakangan ini tapi itu wajar kok, gue butuh release.",0,safe
+ini beneran pesan terakhir gue.,2,crisis
+beneran udah di ujung. gak lebay.,2,crisis
+gue ngerasa semua koneksi gue dengan dunia ini makin tipis.,1,at_risk
+gue lelah banget tapi gue masih mau mencoba hari esok.,0,safe
+gue ngerasa ditinggalin semua orang. dan gue udah mulai percaya emang karena gue yang bermasalah.,1,at_risk
+gue ngerasa sudah tidak bisa lagi dan mulai memikirkan hal-hal yang menakutkan.,1,at_risk
+gue gak bisa berhenti mikirin untuk mengakhiri hidup gue.,2,crisis
+kayaknya udah cukup.,2,crisis
+selesai aja.,2,crisis
+gue ngerasa gak ada jalan dan gue mulai percaya itu.,1,at_risk
+gue takut sama diri gue sendiri. gue punya pikiran untuk bunuh diri.,2,crisis
+gue ngerasa tidak bisa lagi dan mulai aktif memikirkan cara untuk pergi.,1,at_risk
+saya sudah sangat lelah dan ingin semuanya berakhir.,2,crisis
+gue ngerasa jalan gue buntu dari semua arah. gak tau harus pergi kemana.,1,at_risk
+gue gak tau buat apa gue masih di sini.,2,crisis
+gue lelah sama semuanya dengan cara yang gue gak bisa jelasin.,1,at_risk
+semua orang kayak tau arah hidupnya kecuali gue. tapi gue mau terus jalan sambil cari arah itu.,0,safe
+lagi jenuh banget sama rutinitas tapi gue gak tau mau gimana. mungkin butuh liburan.,0,safe
+gue kehilangan motivasi untuk hobi yang dulu gue suka. mungkin gue butuh break dan coba hal baru.,0,safe
+tiap hari gue bangun dengan pikiran betapa lelahnya gue. gue gak tau sampe kapan gue bisa terus kayak gini.,1,at_risk
+impian gue kayaknya makin jauh. tapi gue mau keep going pelan-pelan.,0,safe
+gue ngerasa capek hidup tapi gue takut sama pikiran itu.,1,at_risk
+gue selalu ngerasa jadi yang paling belakang di antara temen-temen. minder tapi gue coba inget bahwa setiap orang punya timeline sendiri.,0,safe
+gue lelah eksis dan mulai serius memikirkan bagaimana cara untuk berhenti eksis.,1,at_risk
+gue gak ngerasa manusia lagi. gue cuma mau selesai.,2,crisis
+gue perlu bantuan. gue gak aman.,2,crisis
+gue udah milih caranya. tinggal nunggu waktu yang tepat.,2,crisis
+"gue ngerasa lost tapi itu artinya gue lagi di fase transisi, bukan hancur.",0,safe
+setiap hari makin susah buat gue nemu alasan buat semangat. gue gak tau ini artinya apa.,1,at_risk
+tadi gue nangis di toilet kantor. malu tapi juga lega.,0,safe
+gue udah kehilangan keinginan untuk apapun. semuanya terasa sama aja.,1,at_risk
+gue gak takut lagi. gue udah siap.,2,crisis
+gue capek banget dan gue gak tau itu artinya apa.,1,at_risk
+gue gak tau siapa gue lagi. identitas gue ngerasa hancur.,1,at_risk
+mau menghilang.,2,crisis
+gue ngerasa gak produktif selama beberapa minggu ini. lagi coba cari tahu apa yang bikin gue gak bersemangat.,0,safe
+gue sering ngerasa sendirian di dalam keluarga gue sendiri. kayak gue ada tapi gak dilihat.,1,at_risk
+gue sering duduk sendirian dan ngerasa kosong total tanpa tau kenapa.,1,at_risk
+aku mau menghilang selamanya. bukan kabur. beneran gak ada.,2,crisis
+ngerasa hubungan kita udah gak kayak dulu. gue mau ngobrol serius sama dia soal ini tapi nyari waktu yang tepat.,0,safe
+gue sering banget ngerasa gak cukup baik dibanding orang lain. tapi gue lagi belajar bahwa perbandingan itu gak adil.,0,safe
+gue gak bisa stop memikirkan tentang mengakhiri semuanya.,1,at_risk
+gue gak ingin ada besok. gue lelah banget.,2,crisis
+gue capek terus-menerus ngerasa seperti ini tanpa tau caranya keluar.,1,at_risk
+relationship gue baru aja berakhir dan gue ngerasa kosong total. kayak gak ada tujuan lagi. gue gak tau mau ngapain sama hidup gue.,1,at_risk
+gue ngerasa udah gak ada alasan dan gue mulai act on it.,2,crisis
+gue suka sama seseorang tapi gak tau gimana cara ngungkapinnya. masih nimbang-nimbang takut salah langkah.,0,safe
+trigger warning buat diri gue sendiri: gue lagi mikirin hal yang gak seharusnya.,2,crisis
+gue ngerasa semakin hari semakin sulit untuk tetap disini.,1,at_risk
+gue gak ngerti kenapa gue masih ada. rasanya kehadiran gue gak nambah nilai apapun buat siapapun.,1,at_risk
+gue udah lama ngerasa kayak gue cuma menunggu.,1,at_risk
+gue capek banget tapi gue masih punya alasan buat terus.,0,safe
+papa gue udah gak ada setahun yang lalu dan hari ini anniversary-nya. gue kangen banget sama beliau.,0,safe
+gue baru move ke kota baru dan belum kenal siapapun. sepi tapi gue yakin pelan-pelan bakal ketemu orang yang cocok.,0,safe
+nilai semester ini turun drastis. gue tau penyebabnya dan lagi bikin rencana perbaikan.,0,safe
+gue insecure sama penampilan gue. lagi coba fokus ke hal-hal yang gue suka dari diri gue sendiri.,0,safe
+saya tidak ingin melanjutkan hidup ini.,2,crisis
+"hari ini gue makan sendirian di kantin dan itu ngebuat gue ngerasa lonely. tapi ini oke, gue lagi proses.",0,safe
+gue udah nyoba segalanya. gue udah minta tolong. tapi kok rasanya gak ada bedanya.,1,at_risk
+gue mulai percaya mungkin gue memang ditakdirkan untuk sendirian. gue capek berharap dan kecewa lagi.,1,at_risk
+gue ngerasa gak kuat tapi gue mau cari kekuatan.,0,safe
+tekanan dari keluarga udah bikin gue ngerasa mau meledak. gue gak bisa terus kayak gini tapi gue juga gak tau harus ngapain.,1,at_risk
+gue baru aja beli semua yang gue butuhin. gue siap.,2,crisis
+gue ngerasa sendirian di keramaian. lebih sepi daripada waktu gue beneran sendiri.,1,at_risk
+gue ngerasa kayak gue di ujung sesuatu tapi gue gak tau apa.,1,at_risk
+gue takut banget gak lulus dan itu nguasain pikiran gue 24 jam. gue udah gak bisa fokus ke hal lain.,1,at_risk
+gue ngerasa kesepian meskipun sebenarnya punya banyak teman. mungkin gue perlu koneksi yang lebih deep.,0,safe
+gue lagi ngerasa sangat lelah tapi gue mau kasih diri gue waktu untuk recover.,0,safe
+gue udah gak percaya sama hubungan apapun. setiap orang yang gue percaya akhirnya pergi atau nyakitin gue. gue capek buka diri.,1,at_risk
+gue capek dan sudah mulai merencanakan sesuatu.,1,at_risk
+gue ngerasa broken tapi gue percaya gue bisa heal.,0,safe
+mental health gue udah di level yang gue udah gak mau fight lagi.,2,crisis
+anxiety gue udah mengambil alih hidup gue. gue gak bisa ngapa-ngapain dengan normal lagi.,1,at_risk
+lagi ngerasain burnout kayaknya. udah coba ambil cuti sehari tapi kerjaannya numpuk lagi pas balik. harus cari solusi jangka panjang.,0,safe
+gue ngerasa overwhelmed sama media sosial. lagi coba digital detox untuk lihat bedanya.,0,safe
+gue ngerasa stuck tapi gue tau stuck itu bukan permanent.,0,safe
+gue ngerasa gak siap sama semua yang lagi terjadi tapi gue mau hadapi pelan-pelan.,0,safe
+"udah berkali-kali gue dicuekin, dikhianatin, ditinggalin. gue mulai ngerasa ada yang salah sama diri gue. kenapa selalu gue yang ditinggalin?",1,at_risk
+gue ngerasa gak bisa lihat jalan apapun ke depan.,1,at_risk
+gue lagi ngerasa overwhelmed tapi gue mau hadapi ini satu per satu.,0,safe
+gue takut gagal dan itu sering bikin gue gak mau mulai sesuatu. lagi belajar bahwa mulai aja dulu itu lebih baik dari sempurna.,0,safe
+gue ngerasa sendirian tapi gue mau reach out ke orang-orang yang gue percaya.,0,safe
+gue capek sama semuanya tapi gue masih pilih untuk tetap ada.,0,safe
+aku ingin mengakhiri hidupku. gak ada yang perlu tau kenapa.,2,crisis
+gue perlu bantuan. gue lagi di tepi dan gue takut.,2,crisis
+gue berhutang sangat besar dan gak ada jalan keluarnya. mungkin kalau gue pergi hutangnya ilang juga.,2,crisis
+gue lagi di titik yang sangat berat tapi gue mau cari bantuan.,0,safe
+gue gak akan ada besok. dan gue oke dengan itu.,2,crisis
+gue lagi ngerasa hopeless tapi gue masih punya orang-orang yang sayang gue.,0,safe
+gue udah nulis surat buat keluarga gue. gue rasa ini waktunya.,2,crisis
+gue gak bisa bayangin bahwa hal-hal bisa berubah. rasanya permanem kayak gini.,1,at_risk
+"sejak dia pergi, gue ngerasa gak ada alasan yang cukup kuat buat gue semangat setiap harinya.",1,at_risk
+saya ingin tidur dan tidak bangun lagi.,2,crisis
+gue ngerasa gak ada jalan keluar tapi gue mau minta tolong buat nemuin jalan itu.,0,safe
+IP gue drop dan gue kena probasi akademik. sedih banget tapi ini wake-up call buat gue untuk lebih serius.,0,safe
+hidup gue berantakan tapi gue masih bisa bersyukur untuk hal-hal kecil.,0,safe
+gue ngerasa gak ada cara lain selain semuanya berhenti.,1,at_risk
+gue lagi plan untuk end my life tonight.,2,crisis
+gue capek berjuang tapi gue juga takut berhenti.,1,at_risk
+gue udah settle sama keputusan gue. damai rasanya.,2,crisis
+gue mulai ngerasa bahwa mungkin gue emang bukan untuk hidup yang normal dan bahagia.,1,at_risk
+ini pesan terakhir yang gue kirim ke siapapun.,2,crisis
+gue ngerasa gak ada yang beneran ngerti gue. tapi gue tau gue butuh lebih terbuka sama orang yang gue percaya.,0,safe
+gue udah tired of being tired. gue gak tau kapan ini berhenti.,1,at_risk
+gue udah gak tau harus berharap apa lagi. semua yang gue harapin selalu berakhir mengecewakan.,1,at_risk
+gue ngerasa overwhelmed sama semua tanggung jawab yang ada. lagi belajar cara bilang no dengan sopan.,0,safe
+tonight is the night. gue udah siap.,2,crisis
+gue udah lama banget gak ngerasa beneran bahagia. gue mulai lupa rasanya kayak gimana.,1,at_risk
+temen deket gue tiba-tiba jauh. gue gak tau salah gue apa. udah coba tanya tapi doi bilang gak ada apa-apa.,0,safe
+gue ngerasa relasi gue sama uang gak sehat. lagi belajar financial literacy dari awal.,0,safe
+gue lagi gak oke tapi gue percaya ini sementara.,0,safe
+saya sudah memutuskan. ini keputusan final saya.,2,crisis
+gue ngerasa gak ada yang bisa bikin gue bahagia lagi.,1,at_risk
+gue ngerasa gak punya kontrol atas hidup gue sendiri. kayak gue cuma ngikut arus tanpa arah.,1,at_risk
+"gue udah gak bisa ngerasa bahagia. apapun yang terjadi, gue cuma ngerasa flat.",1,at_risk
+gue ngerasa gak ada jalan keluar dari situasi ini. terjebak.,1,at_risk
+gue punya kebiasaan buruk yang susah dihilangin. lagi coba pendekatan kecil dan konsisten.,0,safe
+gue lagi sangat capek tapi gue mau minta bantuan.,0,safe
+gue ngerasa makin hari makin menghilang dari dalam.,1,at_risk
+gue capek tapi ada alasan-alasan kecil yang bikin gue mau tetap disini.,0,safe
+honestly gue udah di titik di mana gue lagi serius pertimbangin ending it.,2,crisis
+gue masih belajar cara ngungkapin perasaan. dari kecil diajarin untuk kuat.,0,safe
+gue ngerasa pressure dari teman-teman yang udah pada settle down sementara gue masih figuring out. tapi gue oke.,0,safe
+gue ngerasa mau menyerah tapi gue mau minta tolong dulu.,0,safe
+gue ngerasa hidup gue udah habis sebelum sempat dimulai dengan benar.,1,at_risk
+gue ngerasa semakin hari semakin susah untuk nemu alasan.,1,at_risk
+gue ngerasa gak bisa terus tapi gue mau coba minta bantuan dulu.,0,safe
+gue ngerasa beban gue terlalu berat tapi gue mau minta bantuan.,0,safe
+gue siap untuk pergi. malam ini.,2,crisis
+gue gak mau ada lagi dan pikiran itu sudah tidak terasa menakutkan.,1,at_risk
+gue udah gak bisa ngebayangin hidup yang berbeda.,1,at_risk
+gue mau mengakhiri hidup gue dan gue serius.,2,crisis
+gue ngerasa hidup gue kayak beban yang makin berat setiap harinya.,1,at_risk
+gue sering bandingin diri sama orang lain di sosmed. lagi usaha buat stop.,0,safe
+gue gak bisa lagi nemu hal yang bikin gue genuinely excited.,1,at_risk
+gue capek berjuang sendirian. gue gak tau berapa lama lagi gue bisa.,1,at_risk
+kondisi mental gue udah di titik di mana gue gak bisa bayangin hari esok.,2,crisis
+capek banget sama semua ini tapi gue belum mau menyerah.,0,safe
+gue gak mau ada lagi. ini bukan drama. ini serius.,2,crisis
+gue perlu seseorang karena gue lagi di tepi.,2,crisis
+gue gak tau gimana cara menggambarkan betapa lelahnya gue dengan cara yang orang bisa ngerti.,1,at_risk
+gue mau pergi dan kali ini gue beneran serius.,2,crisis
+gue ngerasa gak ada yang peduli apakah gue baik-baik aja atau enggak.,1,at_risk
+"gue ngerasa kayak robot aja belakangan ini. makan, kerja, tidur, ulang. gue harus bikin hidup gue lebih bermakna.",0,safe
+gue ngerasa hopeless tapi gue belum tau mau ngapain sama perasaan itu.,1,at_risk
+rasanya semua orang bakal lebih baik tanpa gue yang selalu bikin susah.,1,at_risk
+pengen ilang. bukan lebay. literally pengen gak ada.,2,crisis
+gue ngerasa gak oke hari ini. tapi besok bisa jadi beda.,0,safe
+gaji bulan ini dipotong tanpa pemberitahuan. kesel banget tapi gue mau tanya dulu ke HRD sebelum ambil keputusan apapun.,0,safe
+gue sangat lelah tapi gue mau istirahat dulu bukan berhenti.,0,safe
+gue udah gak bisa ngerasa excited sama apapun.,1,at_risk
+gue kecewa sama seorang teman yang ternyata gak seperti yang gue pikir. sedih tapi ini pelajaran.,0,safe
+gue lagi sangat susah tapi gue mau ingat ini hanya fase.,0,safe
+biaya pengobatan nyokap mahal banget. gue lagi mikirin cara finansial yang bisa bantu tanpa nguras tabungan habis-habisan.,0,safe
+gue ngerasa mau DO tapi gak berani bilang ke orang tua. gue sendiri menanggung ini dan rasanya berat banget.,1,at_risk
+saya sudah tidak sanggup lagi. saya ingin semuanya berakhir.,2,crisis
+gue capek berjuang untuk hal-hal yang gak pernah jadi lebih baik.,1,at_risk
+gue gak ngerti kenapa semua orang bisa fine sementara gue terus-terusan struggle.,1,at_risk
+"gue sangat lelah tapi gue mau istirahat, bukan berhenti.",0,safe
+gue udah gak bisa kontrol pikiran gue dan gue takut sama diri gue sendiri.,2,crisis
+gue ngerasa gak bisa tapi gue belum benar-benar coba segalanya.,0,safe
+gue udah pasrah. gue gak tau apa artinya tapi gue udah gak mau ngapa-ngapain.,2,crisis
+gue kehilangan kepercayaan diri setelah pengalaman buruk. pelan-pelan gue coba bangun lagi.,0,safe
+gue udah mutusin. tidak ada yang bisa ubah pikiran gue.,2,crisis
+gue ngerasa gak dihargai di rumah. lagi coba ngobrol dengan cara yang lebih asertif.,0,safe
+gue ngerasa hidup gue bukan milik gue sendiri. gue lelah menjalani hidup yang orang lain mau.,1,at_risk
+gue mau beli rumah tapi cicilan KPR-nya berat banget. lagi nyicil ngumpulin DP sambil cari informasi sebanyak mungkin.,0,safe
+semua usaha gue kayak gak ada gunanya. gue lelah mencoba.,1,at_risk
+gue capek tapi gue mau kasih diri gue satu hari lagi.,0,safe
+gue gak punya work-life balance sama sekali. ini yang perlu gue fix dalam waktu dekat.,0,safe
+gue ngerasa gak ada masa depan yang worth it untuk dinantikan.,1,at_risk
+gue capek sama drama yang ada di sekitar gue tapi gue pilih untuk tidak terlibat.,0,safe
+gue udah gak punya alasan yang cukup kuat untuk tetap berjuang.,1,at_risk
+gue lagi ngerasain quarter life crisis dan itu overwhelmin. tapi gue tau banyak orang yang udah melewati ini.,0,safe
+gue serius lagi plan sesuatu dan gue takut sama diri gue sendiri.,2,crisis
+gue ngerasa gak punya temen yang beneran deket. tapi gue mau investasi lebih ke hubungan yang udah ada.,0,safe
+gue lagi di titik yang gue gak pernah bayangin sebelumnya tapi gue mau melewatinya.,0,safe
+gue capek pura-pura kuat tapi gue mau mulai jujur sama diri sendiri.,0,safe
+semua orang kayak punya hidup yang berjalan dengan baik kecuali gue. gue capek berpura-pura oke.,1,at_risk
+gue lagi di titik di mana gue gak tau mau kemana tapi gue masih mau jalan.,0,safe
+halo karuna apa kabar?,0,safe
+halo aku pengen ngobrol,0,safe
+hi karuna bisa bantu aku?,0,safe
+hey apa kabar?,0,safe
+halo karuna perkenalkan aku baru pertama kali di sini,0,safe
+selamat pagi karuna,0,safe
+selamat siang apa kabar hari ini,0,safe
+selamat malam karuna,0,safe
+halo aku ingin bercerita,0,safe
+hi bisa kita ngobrol?,0,safe
+halo aku mau tanya boleh gak?,0,safe
+hey karuna aku perlu teman ngobrol hari ini,0,safe
+perkenalkan namaku rani senang kenal kamu,0,safe
+halo aku baru kenal karuna nih,0,safe
+hei aku mau cerita sesuatu,0,safe
+halo karuna aku mau mulai ngobrol deh,0,safe
+hai siapa kamu dan bisa bantu apa?,0,safe
+halo karuna gue mau curhat boleh?,0,safe
+gue mau nyoba ngobrol sama karuna nih,0,safe
+karuna apa kabar? aku baru tahu ada kamu,0,safe
+halo apakah kamu chatbot atau manusia?,0,safe
+halo sebelumnya aku belum pernah pakai karuna,0,safe
+apa kabar? hari ini cuaca bagus,0,safe
+hi karuna aku penasaran kamu bisa ngapain,0,safe
+halo aku cuma pengen ngobrol santai,0,safe
+yo karuna gimana kabar lo,0,safe
+gue mau coba karuna deh kayaknya seru,0,safe
+halo karuna gue penasaran sama kamu,0,safe
+halo pertama kali nih nyoba aplikasi ini,0,safe
+selamat datang di hari yang baru karuna,0,safe

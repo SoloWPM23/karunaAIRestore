@@ -1,0 +1,24 @@
+
+# Groq API (untuk LLM di s1_conversational)
+groq>=0.4.0
+python-dotenv>=1.0.0
+
+# ML & NLP
+torch>=2.2.0
+transformers>=4.40.0,<5.0.0
+datasets>=2.19.0
+sentencepiece>=0.2.0
+scikit-learn>=1.4.0
+accelerate>=0.30.0
+numpy>=1.26.0
+pandas>=2.2.0
+protobuf==3.20.3
+
+# Demo Interface
+streamlit>=1.35.0
+
+# Voice (Eleven Labs untuk TTS dan STT)
+elevenlabs>=1.50.0
+sounddevice
+scipy
+soundfile

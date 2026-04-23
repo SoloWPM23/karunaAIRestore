@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+egg-info/
+eggs/
+*.egg
+ MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# Linting
+.ruff_cache/
+.ruff_cache/
+
+# Logs
+*.log
+logs/
+
+# Data & Sessions
+data/sessions/
+*.json
+
+# Models (uncomment if you want to exclude trained models)
+# models/
+
+# Images (uncomment if you want to exclude images)
+# img/
+
+# Temp files
+tmp/
+temp/
+*.tmp

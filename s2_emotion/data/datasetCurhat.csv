@@ -1,0 +1,510 @@
+text,emotion,topic
+baru dapet kabar naik jabatan hari ini. gak nyangka kerja keras gue setahun ini akhirnya diakui.,senang,pekerjaan
+proyek yang gue kerjain 6 bulan akhirnya diapprove dan kliennya puas banget. lega banget rasanya.,senang,pekerjaan
+presentasi tadi berjalan lancar dan semua orang di ruangan respon positif. pertama kali ngerasa beneran bangga sama diri sendiri.,senang,pekerjaan
+akhirnya dapet offer kerja di tempat yang udah lama gue impiin. gak nyangka tapi ini beneran terjadi.,senang,pekerjaan
+resign diterima baik dan malah dapet referral kerja dari bos lama. rejeki emang gak ke mana-mana.,senang,pekerjaan
+setelah setahun freelance penuh ketidakpastian akhirnya dapet kontrak jangka panjang yang oke.,senang,pekerjaan
+tim gue baru aja menang kompetisi internal dan semua usaha kita akhirnya terbayar.,senang,pekerjaan
+habis dapet feedback bagus dari klien yang biasanya paling kritis. ini yang bikin gue mau terus kerja keras.,senang,pekerjaan
+dia akhirnya minta maaf duluan dan kita ngobrol panjang. hubungan kita rasanya balik normal lagi.,senang,relationship
+surprisein dari dia hari ini beneran bikin gue nangis. gak nyangka dia masih inget detail-detail kecil.,senang,relationship
+setelah lama long distance dia akhirnya pindah ke kota yang sama. kayak mimpi yang jadi nyata.,senang,relationship
+kita udah bareng 3 tahun dan dia ngelamar aku hari ini di depan keluarga.,senang,relationship
+dia inget ulang tahun gue tanpa gue ingetin. hal kecil tapi beneran bikin gue ngerasa dihargai.,senang,relationship
+habis nongkrong sama temen-temen lama dan rasanya kayak gak ada yang berubah. kehangatan yang gue rinduin.,senang,other
+rekonsiliasi sama temen yang udah lama gak ngobrol. ngerasa beban yang gue gak sadar kebawa akhirnya hilang.,senang,other
+adik terakhir wisuda hari ini dan seluruh keluarga ngumpul untuk pertama kalinya dalam lama.,senang,keluarga
+akhirnya bisa kasih ibu uang lebih dari biasanya bulan ini. senyumnya itu yang bikin semua capeknya ilang.,senang,keluarga
+adik dapet beasiswa penuh ke luar negeri. bangga banget sama dia dan ngerasa support selama ini worth it.,senang,keluarga
+ayah sembuh dari sakit yang udah lama bikin kita khawatir. nangis waktu dokter bilang hasilnya bersih.,senang,keluarga
+habis ngobrol panjang sama orangtua dan akhirnya mereka ngerti sudut pandang gue.,senang,keluarga
+hasil lab keluar dan dokter bilang semuanya normal. udah berbulan-bulan takut terus akhirnya bisa napas lega.,senang,kesehatan
+seminggu setelah operasi kecil dan pemulihan gue jauh lebih cepat dari yang dokter prediksi.,senang,kesehatan
+baru capai 100 hari streak olahraga. badan ngerasa beda dan kepercayaan diri juga naik.,senang,kesehatan
+badan gue pulih lebih cepat dari yang diperkirakan dan dokter bilang gue bisa balik aktivitas normal.,senang,kesehatan
+bulan ini pertama kalinya gue lunas tagihan tanpa harus utang ke siapapun. rasanya kayak lepas tali dari leher.,senang,finansial
+investasi yang gue mulai dua tahun lalu akhirnya ngasih return yang lumayan.,senang,finansial
+utang ke orangtua akhirnya lunas semua hari ini.,senang,finansial
+dapat bonus tak terduga akhir tahun ini. langsung kepikiran mau nabung untuk sesuatu yang udah lama gue rencanain.,senang,finansial
+presentasi di depan ratusan orang tadi dan gue gak panik sama sekali. ini progress besar buat gue yang dulunya takut banget public speaking.,senang,self
+gue akhirnya bisa bilang tidak ke sesuatu yang gue gak mau tanpa tenggelam dalam rasa bersalah.,senang,self
+selesai terapi setelah setahun dan therapist bilang perkembangan gue signifikan.,senang,self
+baru selesai nulis tulisan pertama gue dan diterima di publikasi online. mimpi kecil yang akhirnya kejadian.,senang,self
+baru tau gue lulus seleksi program yang pesaingnya ketat banget.,senang,self
+nemu komunitas yang beneran bikin gue ngerasa diterima apa adanya untuk pertama kali.,senang,other
+liburan dadakan yang gak direncanain sama sekali ternyata jadi yang paling memorable tahun ini.,senang,other
+temen lama yang udah setahun lebih gak ada kabar tiba-tiba ngabarin dan ternyata baik-baik aja.,senang,other
+kena PHK minggu lalu tanpa banyak penjelasan. masih gak ngerti dan gak tau harus mulai dari mana.,sedih,pekerjaan
+udah kerja keras setahun ini tapi bonus malah ke orang yang kerjaannya gak keliatan. capek banget.,sedih,pekerjaan
+project yang gue kerjain berbulan-bulan di-cancel tanpa dikasih tau alasannya.,sedih,pekerjaan
+udah coba semaksimal mungkin tapi performanya tetap dibilang kurang. mulai ngerasa gue emang gak cocok di sini.,sedih,pekerjaan
+gue di-ghosting sama rekan kerja yang tadinya gue pikir teman.,sedih,pekerjaan
+resign karena gak tahan lagi tapi sekarang ngerasa bersalah ninggalin tim yang butuh gue.,sedih,pekerjaan
+dia pergi tanpa bilang apa-apa. cuma ninggalin pesan singkat dan tiba-tiba gak bisa dihubungi.,sedih,relationship
+habis tiga tahun bareng ternyata dia selingkuh. gak tau bagian mana yang lebih sakit.,sedih,relationship
+udah coba berbicara berkali-kali tapi dia selalu menghindari. capek ngerasa kayak ngomong ke tembok.,sedih,relationship
+putus tadi pagi. gue yang dulu takut kehilangan dia kini harus terbiasa hidup tanpanya.,sedih,relationship
+dia udah move on dan bahkan udah ada yang baru. gue masih di sini stuck sama kenangan.,sedih,relationship
+gue udah ngejalanin long distance sekian lama dan kayaknya kita udah gak di halaman yang sama.,sedih,relationship
+orangtua kecewa sama keputusan yang gue buat dan gak mau dengerin penjelasan gue.,sedih,keluarga
+kakak yang biasanya paling ngerti gue sekarang juga jadi jauh. ngerasa sendirian di keluarga sendiri.,sedih,keluarga
+nenek meninggal minggu lalu dan gue masih belum bisa nerima. ini kehilangan pertama yang beneran gue rasain.,sedih,keluarga
+keluarga yang tadinya selalu bisa diandalkan terasa makin jauh dan gue gak tau cara mendekatikannya lagi.,sedih,keluarga
+dokter bilang butuh perawatan jangka panjang dan gue belum tau gimana ngurusin ini sendirian.,sedih,kesehatan
+kondisi mental gue belakangan ini makin susah dikontrol. ngerasa kayak lagi tenggelam pelan-pelan.,sedih,kesehatan
+ngerawat orang yang disayang yang lagi sakit itu lelah secara fisik dan emosional tapi gue gak mau ngeluh.,sedih,kesehatan
+udah sebulan lebih badan gak baik dan penanganannya ngerasa lambat banget.,sedih,kesehatan
+bulan ini gak ada pemasukan dan tabungan makin menipis. gue gak tau harus cerita ke siapa.,sedih,finansial
+usaha kecil yang gue rintis setahun lebih akhirnya bangkrut. ngerasa semua kerja keras gue sia-sia.,sedih,finansial
+harus nolak kesempatan yang bagus banget karena masalah biaya.,sedih,finansial
+udah ngerasa kayak gini berbulan-bulan dan gue capek pura-pura semuanya oke di depan orang.,sedih,self
+ngerasa kayak gak berkembang sementara orang-orang di sekitar gue terus maju.,sedih,self
+gue ngerasa kesepian meski dikelilingi banyak orang. gak ada yang beneran kenal gue.,sedih,self
+mimpi yang udah lama gue kejar kayaknya makin jauh dan gue makin susah percaya ini masih mungkin.,sedih,self
+ngerasa kayak jadi beban buat orang-orang yang gue sayangi.,sedih,self
+temen yang udah lama deket tiba-tiba menjauh tanpa penjelasan. gak tau salah gue apa.,sedih,other
+udah lama gak ngerasa genuinely bahagia. ada yang kosong tapi gue bingung apa yang hilang.,sedih,other
+gue nulis ini tengah malam karena gak bisa tidur dan gak ada yang bisa gue hubungi sekarang.,sedih,other
+atasan ngambil kredit atas kerja gue di depan semua orang tanpa nyebut nama gue. pengen langsung resign.,marah,pekerjaan
+gue dikasih pekerjaan lebih banyak dari orang lain tapi gajinya sama. udah diomongkan berkali-kali gak ada perubahan.,marah,pekerjaan
+meeting tadi bos ngomongin gue di depan tim dengan cara yang merendahkan. gue gak terima diperlakukan kayak gitu.,marah,pekerjaan
+rekan kerja yang harusnya kolaborasi malah nusuk dari belakang demi kepentingan sendiri.,marah,pekerjaan
+sistem di kantor ini beneran gak adil dan yang di atas gak peduliin keluhan dari bawah sama sekali.,marah,pekerjaan
+gue diminta lembur terus tanpa kompensasi dan pas minta kejelasan malah dikasih jawaban ngambang.,marah,pekerjaan
+ketauan dia udah berbohong dari awal. bukan cuma sekali tapi berkali-kali. gue ngerasa dimanfaatkan.,marah,relationship
+dia selalu bikin janji terus gak ditepatin. udah toleransi berkali-kali tapi gue mulai gak bisa terima lagi.,marah,relationship
+temen yang gue percaya ternyata ngegosipin hal-hal private gue ke orang lain.,marah,relationship
+dia ngomong sesuatu yang kejam waktu lagi argument dan sekarang bilang itu cuma bercanda.,marah,relationship
+gue dibesarkan dengan ekspektasi yang gak realistis dan kalau gak terpenuhi selalu disalahkan.,marah,keluarga
+orangtua selalu bandingkan gue sama saudara tanpa mau dengerin posisi gue.,marah,keluarga
+keputusan besar gue terus diintervensi tanpa diminta. gue udah dewasa dan berhak atas hidup gue sendiri.,marah,keluarga
+adik selalu dibela apapun yang dia lakuin sementara gue harus selalu jadi yang salah.,marah,keluarga
+nunggu 3 jam lebih di puskesmas cuma dibilang kurang istirahat. penanganan yang gak serius bikin frustasi.,marah,kesehatan
+gue udah minta penjelasan lengkap tapi dokternya buru-buru dan gak mau dengerin.,marah,kesehatan
+ditipu sama orang yang gue percaya atas nama investasi. uang tabungan bertahun-tahun hilang begitu aja.,marah,finansial
+biaya yang dijanjikan ternyata beda jauh sama fakturnya. baru tau setelah bayar.,marah,finansial
+gue marah sama diri sendiri karena udah tau ini salah tapi tetep dilakuin juga.,marah,self
+udah janji ke diri sendiri berkali-kali tapi selalu berulang. ngerasa kayak gak punya kontrol.,marah,self
+sistem yang harusnya nolong justru bikin orang yang lagi susah makin susah.,marah,other
+liat orang yang ngerugiin banyak orang tapi tetep aja gak kena apa-apa.,marah,other
+dapet perlakuan yang berbeda cuma karena kelihatan beda dari mereka. ini gak bisa terus dibiarkan.,marah,other
+kontrak gue mau habis bulan depan dan belum ada tanda-tanda diperpanjang.,takut,pekerjaan
+ada rumor PHK massal di kantor dan gue gak tau posisi gue aman atau nggak. tidur gak tenang belakangan ini.,takut,pekerjaan
+diminta presentasi besar di depan direksi minggu depan. biasanya oke tapi ini levelnya beda.,takut,pekerjaan
+mau transisi karir tapi gak tau apakah field baru ini cocok sama gue. takut nyesel kalau salah langkah.,takut,pekerjaan
+mau mulai usaha sendiri tapi kepikiran terus gimana kalau gagal dan rugi.,takut,pekerjaan
+berasa kalau dia makin menjauh belakangan ini tapi gue gak mau salah baca situasi.,takut,relationship
+hubungan ini makin serius dan gue mulai deg-degan. khawatir gue gak cukup baik buat ini.,takut,relationship
+ngerasa attachment gue ke dia terlalu kuat dan gue mulai khawatir itu jadi kelemahan.,takut,relationship
+kondisi kesehatan ayah makin melemah dan gue takut kehilangan dia sebelum kita bisa berbaikan.,takut,keluarga
+ibu mulai sering lupa hal-hal kecil dan gue takut ini lebih dari sekadar kelelahan biasa.,takut,keluarga
+mau kasih kabar ke orangtua soal keputusan besar gue tapi khawatir mereka kecewa.,takut,keluarga
+besok jadwal hasil diagnosa dan gue belum bisa tidur 2 hari ini.,takut,kesehatan
+gejala yang gue rasain belakangan ini bikin gue khawatir tapi gue juga takut ke dokter.,takut,kesehatan
+mau mulai terapi tapi khawatir kalau yang gue rasain ternyata gak cukup serius untuk diterapi.,takut,kesehatan
+habis baca soal kondisi yang mirip gue dan gue jadi overthinking semua kemungkinannya.,takut,kesehatan
+prosedur medis yang dijadwalkan minggu ini bikin gue deg-degan.,takut,kesehatan
+tagihan menumpuk dan gue beneran gak tau bulan depan bisa bayar semua atau nggak.,takut,finansial
+gue ambil risiko finansial yang cukup besar dan sekarang mulai ngerasa ini mungkin keputusan yang salah.,takut,finansial
+kalau keadaan gak berubah dalam beberapa bulan ke depan gue gak tau bisa bertahan atau nggak.,takut,finansial
+kadang gue takut sama diri sendiri. pikiran-pikiran yang muncul gak selalu bisa gue kontrol.,takut,self
+gue khawatir ini udah terlalu terlambat untuk berubah. ngerasa stuck tapi juga takut bergerak.,takut,self
+ngerasa kayak imposter terus-terusan. khawatir orang-orang akan sadar gue sebenernya gak secapable yang mereka kira.,takut,self
+situasi di sekitar gue lagi gak stabil dan gue ngerasa gak punya kendali atas apa yang akan terjadi.,takut,other
+kebanyakan orang yang gue sayangi lagi dalam kondisi gak baik dan gue ngerasa kehabisan ruang untuk nampung semuanya.,takut,other
+bos yang selama ini keras tiba-tiba panggil gue dan bilang gue layak promosi. gak nyangka sama sekali.,kaget,pekerjaan
+di tengah-tengah rapat gue dipindahtugaskan ke divisi yang gue gak pernah bayangin. masih proses ini.,kaget,pekerjaan
+perusahaan yang gue lamar 3 bulan lalu tiba-tiba ngubungi hari ini dan minta interview besok.,kaget,pekerjaan
+tiba-tiba dapet pesan dari dia setelah setahun lebih gak ada kabar. masih gak tau harus ngapain.,kaget,relationship
+dia ngakuin perasaannya hari ini. gue gak lihat ini datang sama sekali dan butuh waktu untuk proses.,kaget,relationship
+temen yang gue pikir baik-baik aja ternyata udah lama ngerasain hal yang berat tanpa cerita ke gue.,kaget,other
+orangtua tiba-tiba bilang mau pindah kota. gue kaget karena selama ini gak pernah ada sinyal ke sana.,kaget,keluarga
+dapet informasi soal keluarga yang selama ini disembunyiin. gue masih gak tau harus ngerasa gimana.,kaget,keluarga
+dokter bilang ada yang perlu dioperasi dan ini tiba-tiba banget. gue belum siap mental sama sekali.,kaget,kesehatan
+hasil tes yang gue pikir biasa aja ternyata nunjukkin sesuatu yang gak gue duga.,kaget,kesehatan
+dapet warisan yang gak gue sangka sama sekali. ini bikin banyak hal jadi rumit.,kaget,finansial
+tagihan yang datang jauh lebih besar dari estimasi. masih syok dan lagi cari solusinya.,kaget,finansial
+waktu nulis jurnal tadi gue sadar pola yang selama ini gak pernah gue sadarin.,kaget,self
+reaksi gue di situasi tadi beda dari yang biasanya. gue sendiri gak nyangka bisa begitu.,kaget,self
+dapet kabar gak terduga hari ini. masih belum sepenuhnya nyerap.,kaget,other
+sesuatu yang gue udah lama tunggu tiba-tiba terjadi dan gue malah bingung gimana harus ngerespon.,kaget,other
+senior di kantor ketauan manipulasi data laporan dan semua orang diem aja karena takut.,jijik,pekerjaan
+lingkungan kerja yang harusnya profesional tapi penuh gossip dan politik kotor. gak betah.,jijik,pekerjaan
+dimintain sesuatu yang harusnya prosedural tapi ujung-ujungnya soal uang. gue gak mau ikut.,jijik,pekerjaan
+tau sekarang kalau banyak yang dia lakuin ke gue itu manipulatif. ngerasa kotor udah percaya dia selama ini.,jijik,relationship
+temen yang gue anggap baik ternyata nyebarin rumor soal gue yang sama sekali gak bener.,jijik,relationship
+tau seseorang yang gue respek ternyata nawarin sesuatu yang gak etis ke gue.,jijik,relationship
+orang yang bikin masalah malah yang paling keras ngomong gak bersalah. gue gak habis pikir.,jijik,relationship
+anggota keluarga yang harusnya jadi teladan ketauan lakuin hal yang memalukan.,jijik,keluarga
+dinamika di keluarga yang baru gue tau ini gak sehat dan gue gak mau jadi bagian dari itu.,jijik,keluarga
+liat perlakuan yang gak manusiawi ke orang lain dan gue beneran gak bisa terima ini masih terjadi.,jijik,other
+sistem yang katanya buat nolong rakyat tapi malah dikorupsi sama yang ngurusnya.,jijik,other
+lingkungan yang harusnya aman malah penuh sama orang-orang yang toxic dan gue terjebak di dalamnya.,jijik,other
+berita tentang perlakuan buruk ke anak-anak yang gue baca tadi bikin gue beneran gak bisa lanjut.,jijik,other
+masih nimbang-nimbang mau lanjut di sini atau coba tempat baru. belum ada keputusan.,netral,pekerjaan
+kerjaan hari ini selesai semua tapi rasanya flat aja. gak excited gak sedih juga.,netral,pekerjaan
+ngelamar beberapa tempat dan lagi nunggu balasan. belum tau gimana rasanya.,netral,pekerjaan
+interview kemarin berlangsung oke tapi gue belum bisa baca hasilnya seperti apa.,netral,pekerjaan
+lagi di fase transisi karir dan masih belum keliatan arahnya kemana.,netral,pekerjaan
+baru pindah kerja dan masih dalam masa adaptasi. belum bisa bilang suka atau nggak.,netral,pekerjaan
+hubungan sama dia baik-baik aja tapi belakangan terasa lebih flat dari biasanya.,netral,relationship
+lagi mikirin arah hubungan ini ke depannya. bukan masalah cuma mau lebih jelas aja.,netral,relationship
+kami baik-baik aja cuma lagi sibuk masing-masing belakangan ini.,netral,relationship
+habis ngobrol panjang sama dia dan gue lagi proses apa yang sebenernya gue rasain.,netral,relationship
+keluarga lagi baik-baik aja. ada beberapa hal yang mau gue bicarain tapi belum ketemu waktu yang tepat.,netral,keluarga
+akhir pekan kemarin makan bareng keluarga. biasa aja tapi nyaman.,netral,keluarga
+orangtua lagi di fase yang beda sama gue dalam banyak hal tapi kami masih bisa ngobrol.,netral,keluarga
+ada perubahan di keluarga yang gue masih proses pelan-pelan.,netral,keluarga
+lagi coba bikin rutinitas tidur lebih baik. hasilnya belum keliatan tapi gue usaha.,netral,kesehatan
+kontrol dokter minggu ini dan semuanya normal. gak ada yang perlu dikhawatirkan.,netral,kesehatan
+lagi ngurangin junk food pelan-pelan. belum keliat hasilnya tapi ada progres dikit.,netral,kesehatan
+gue mulai journaling soal kondisi fisik gue buat lebih aware.,netral,kesehatan
+pengeluaran bulan ini cukup tapi gak ada sisa yang signifikan. standar aja.,netral,finansial
+lagi bikin budget buat bulan depan. coba lebih disiplin dari bulan lalu.,netral,finansial
+gak ada masalah keuangan sekarang tapi gue mau mulai serius nabung.,netral,finansial
+lagi di fase yang agak blur. gak tau persis mau kemana tapi gue gak panik.,netral,self
+belakangan gue lebih sering sendirian dan ternyata oke-oke aja sama itu.,netral,self
+gue lagi nulis jurnal tiap hari untuk lebih kenal diri sendiri.,netral,self
+gak ada yang spesifik yang lagi gue rasain sekarang. flat aja.,netral,self
+masih nyari tau apa yang beneran gue mau dalam banyak hal.,netral,self
+minggu ini gue coba challenge diri sendiri dengan hal kecil. lumayan.,netral,self
+baru mulai terapi dan masih proses ngerti apa yang sebenernya mau gue capai dari sini.,netral,self
+hari biasa aja. sarapan kerja pulang. ritme yang sama tapi gue oke.,netral,other
+tadi nonton film sendirian. ceritanya bagus tapi gue belum tau apa yang gue rasain.,netral,other
+gue mau mulai ngobrol sama seseorang soal beberapa hal yang lagi ada di pikiran.,netral,other
+baru coba hal baru hari ini. belum tau suka atau nggak.,netral,other
+lagi adaptasi sama rutinitas baru. butuh waktu tapi gak ada yang bikin stres.,netral,other
+halo apa kabar?,netral,other
+hi gue butuh seseorang untuk dengerin cerita gue.,netral,other
+gue mau cerita sedikit tentang yang lagi gue rasain.,netral,other
+gue pengen ngobrol soal sesuatu tapi belum tau harus mulai dari mana.,netral,other
+selamat pagi karuna.,netral,other
+halo karuna bisa bantu aku?,netral,other
+hey apa kabar?,netral,other
+proyek yang gue kira udah mati tiba-tiba dihidupkan lagi dan gue ditunjuk jadi lead-nya. belum tau harus seneng atau panik.,kaget,pekerjaan
+atasan gue yang cool selama ini mendadak resign tanpa kasih tau siapapun. kantor jadi riuh dan semua orang bingung.,kaget,pekerjaan
+temen gue yang biasanya paling cereweh tiba-tiba diam dan mulai menjauh. gue gak ngerti ada apa.,kaget,relationship
+ketemu mantan gue di event yang sama hari ini. gak pernah kepikiran akan ketemu di sini.,kaget,relationship
+sinyal yang selama ini gue baca salah semua. ternyata situasinya beda banget sama yang gue pikirin.,kaget,relationship
+adik gue tiba-tiba bilang mau nikah bulan depan. kami semua baru tau hari ini.,kaget,keluarga
+bokap cerita hal yang selama ini dia simpan sendiri bertahun-tahun. gue gak nyangka sama sekali.,kaget,keluarga
+dokter bilang kondisi gue jauh lebih baik dari yang diperkirakan. gue sampe minta dikonfirmasi ulang.,kaget,kesehatan
+tagihan listrik bulan ini naik tiga kali lipat tanpa ada perubahan pemakaian. masih cari tahu kenapa.,kaget,finansial
+slip gaji bulan ini ada tambahan bonus yang gak pernah dikomunikasiin sebelumnya. gak tau ini permanent apa engga.,kaget,finansial
+gue nangis nonton video yang harusnya biasa aja dan gue sendiri gak nyangka reaksi gue segitu.,kaget,self
+tiba-tiba sadar gue udah dua jam duduk diam tanpa ngapa-ngapain. gue gak sadar waktu sebanyak itu berlalu.,kaget,self
+teman lama yang udah gak kontak lebih dari lima tahun tiba-tiba muncul minta ketemu.,kaget,other
+kandidat yang gue dukung menang dengan selisih yang sangat tipis. gue gak berani harap setinggi ini.,kaget,other
+berita di area tempat tinggal gue kemarin beneran gak gue sangka bisa terjadi di sini.,kaget,other
+tau kalau ada rekan kerja yang sengaja nyabotase pekerjaan orang lain biar kelihatan lebih baik. gak bisa percaya.,jijik,pekerjaan
+di meeting tadi ada yang ngelanin ide hasil curian dan dibawain sebagai gagasan sendiri. gue yang liat prosesnya.,jijik,pekerjaan
+ketauan praktik curang di institusi yang harusnya jadi contoh integritas. gue malu ikut bagian dari sana.,jijik,pekerjaan
+seseorang yang gue trusted ternyata ngeshare percakapan pribadi gue ke orang lain. ngerasa dikhianatin banget.,jijik,relationship
+liat orang yang pura-pura peduli cuma buat ngambil keuntungan dari yang lagi vulnerable. gue gak bisa diem.,jijik,relationship
+anggota keluarga ketauan nipu orang yang lebih tua buat kepentingan sendiri. gue malu dan marah sekaligus.,jijik,keluarga
+cara keluarga besar gue ngomongin masalah orang lain di balik punggung itu gak sehat dan gue capek terlibat.,jijik,keluarga
+tau ada oknum yang sengaja memperlambat proses pengobatan pasien biar biaya naik. gue gak habis pikir.,jijik,kesehatan
+kondisi sanitasi di tempat yang gue kunjungi tadi benar-benar di bawah standar dan petugasnya gak peduli.,jijik,kesehatan
+produk yang diklaim alami ternyata isinya bahan berbahaya dan perusahaannya tau dari awal. gak bisa terima.,jijik,finansial
+tau kalau ada yang sengaja tipu orang tua gue dengan skema investasi palsu. gue beneran gak bisa kalem.,jijik,finansial
+gue sadar kemarin gue diem aja waktu liat sesuatu yang gak bener. menyesal gak langsung bicara.,jijik,self
+liat konten yang ngehina kelompok tertentu dan masih banyak yang ngelike. udah males scrolling.,jijik,other
+fasilitas yang harusnya buat semua orang malah dikuasain yang punya koneksi aja. bikin gue frustrasi.,jijik,other
+seseorang yang harusnya jadi pelindung malah jadi yang paling ngeksploitasi. gue gak punya kata-kata.,jijik,other
+gue minta waktu istirahat karena sakit dan ditolak. perasaan tubuh gue sama sekali gak dianggap.,marah,pekerjaan
+tiga bulan nunggu hasil tes medis tapi terus disuruh balik lagi. sistem ini beneran menguras.,marah,kesehatan
+obat yang diresepkan gak ada efeknya tapi dokternya tetap ngotot sama diagnosis yang sama.,marah,kesehatan
+klaim asuransi gue ditolak dengan alasan yang gak masuk akal dan gak ada jalan banding.,marah,finansial
+rekening gue ditutup sepihak tanpa pemberitahuan dan cs gak bisa kasih solusi apapun.,marah,finansial
+gue tau gue bisa lebih dari ini tapi ada sesuatu dalam diri gue yang terus nahan dan bikin frustasi.,marah,self
+marah sama diri sendiri karena udah banyak kesempatan yang gue buang karena terlalu takut.,marah,self
+orang yang nyebabkan masalah malah dapet perlakuan istimewa sementara yang terdampak diabaikan.,marah,other
+suara gue udah disampaikan berkali-kali tapi gak pernah beneran didengar sama yang harusnya bertanggung jawab.,marah,other
+dia terus ngomong di atas gue waktu gue lagi cerita dan gak pernah mau dengerin sampai selesai.,marah,relationship
+halo karuna gue butuh cerita. beneran gak bisa terima perlakuan yang gue dapet hari ini.,marah,other
+hai gue perlu ngomong ke seseorang. gue marah banget dan harus keluarin ini.,marah,other
+halo karuna mau cerita nih. tadi baru dapet berita yang bikin gue nangis bahagia.,senang,other
+hai gue butuh cerita dong. hari ini jadi salah satu hari terbaik dalam hidup gue.,senang,other
+halo karuna gue perlu cerita. lagi ngerasa kosong dan gak tau harus ke mana.,sedih,other
+hi gue mau curhat. udah beberapa hari ini gue ngerasa down banget dan gak ada yang ngerti.,sedih,other
+halo karuna mau cerita sesuatu. gue lagi takut banget sama situasi yang gue hadapin sekarang.,takut,other
+hi gue perlu cerita sama seseorang. ada hal yang terus menghantui gue dan gue gak tau harus ngapain.,takut,other
+halo karuna bisa dengerin gue. baru dapet kabar yang beneran gak gue sangka dan gue masih syok.,kaget,other
+hai gue mau curhat. baru tau sesuatu yang bikin gue beneran gak nyaman dan pengen jauh-jauh.,jijik,other
+gue baru dapet promosi yang udah gue kejar hampir dua tahun. gak nyangka akhirnya tiba juga.,senang,pekerjaan
+klien paling demanding akhirnya bilang puas sama hasil kerja gue. semua capeknya terasa terbayar.,senang,pekerjaan
+bos gue kasih shoutout di depan seluruh tim atas kontribusi gue bulan ini. pertama kalinya ngerasa beneran kelihatan.,senang,pekerjaan
+proyek freelance gue dapet review bintang lima dan kliennya langsung ajak kolaborasi lagi.,senang,pekerjaan
+gue dapet tawaran kerja dari perusahaan impian gue hari ini. masih belum percaya tapi ini nyata.,senang,pekerjaan
+kami akhirnya punya obrolan jujur setelah berbulan-bulan menghindari topik berat itu. hubungan kami terasa segar.,senang,relationship
+dia ingat detail kecil yang gue sebut bulan-bulan lalu dan bikin surprise yang beneran meaningful.,senang,relationship
+temen gue dateng jauh-jauh cuma buat mastiin gue baik-baik aja. gue terharu banget.,senang,relationship
+pertengkaran besar kami akhirnya selesai dengan baik dan kami malah makin dekat setelahnya.,senang,relationship
+gue akhirnya bisa jujur soal perasaan gue dan responsnya lebih baik dari yang gue takutin.,senang,relationship
+adik gue lulus ujian yang paling dia takutin. nangis bahagia bareng seluruh keluarga hari ini.,senang,keluarga
+bokap gue akhirnya bilang bangga sama pilihan hidup gue. kata-kata itu gue tunggu lama banget.,senang,keluarga
+akhirnya bisa ajak nyokap liburan dari uang tabungan gue sendiri. momen yang paling gue syukurin.,senang,keluarga
+kakak gue yang selama ini jauh tiba-tiba minta rekonsiliasi. gue nangis dan sangat lega.,senang,keluarga
+keluarga gue ngumpul lengkap untuk pertama kali dalam bertahun-tahun dan rasanya hangat banget.,senang,keluarga
+hasil tes yang gue takutin keluar dan semuanya bersih. lega yang susah banget diungkapin.,senang,kesehatan
+setelah setahun rutin olahraga gue akhirnya ngerasain bedanya di badan dan energi gue.,senang,kesehatan
+dokter bilang kondisi gue improve jauh dari kunjungan terakhir. ngerasa upaya gue terbayar.,senang,kesehatan
+tidur gue akhirnya teratur lagi setelah berbulan-bulan insomnia. badan gue terasa hidup kembali.,senang,kesehatan
+kondisi mental gue jelas membaik setelah rutin terapi enam bulan ini. gue bangga sama diri sendiri.,senang,kesehatan
+hutang yang udah bertahun-tahun akhirnya lunas. ngerasa beban besar di dada gue ilang seketika.,senang,finansial
+investasi yang gue mulai dua tahun lalu akhirnya kasih return yang gue harapin.,senang,finansial
+income bulan ini paling tinggi yang pernah gue capai. gue gak nyangka bisa sampai sini.,senang,finansial
+gue berhasil kumpulin dana darurat 6 bulan yang udah lama jadi target gue.,senang,finansial
+side project gue mulai generate income yang berarti dan bikin gue jauh lebih tenang soal masa depan.,senang,finansial
+gue akhirnya berhasil konsisten sama habit positif yang udah lama gue usahain.,senang,self
+untuk pertama kalinya gue bisa bilang tidak tanpa rasa bersalah dan itu liberating banget.,senang,self
+gue nulis tentang perjalanan gue sendiri dan terharu ngeliat seberapa jauh gue udah tumbuh.,senang,self
+gue berhasil ngatasin ketakutan yang lama banget nahan gue dari hal yang penting.,senang,self
+gue sadar gue udah berkembang jauh dari dua tahun lalu dan ini bikin gue genuinely bahagia.,senang,self
+komunitas yang gue ikutin berhasil ngeluncurin sesuatu yang kami kerjain lama. bangga jadi bagian dari ini.,senang,other
+gue volunteer di event yang meaningful dan ngerasa kontribusi gue beneran berdampak buat orang lain.,senang,other
+gue nemuin teman baru yang langsung ngerasa koneksi genuine dan jujur. gue gak nyangka.,senang,other
+dipecat hari ini tanpa alasan jelas. gue gak tau harus mulai dari mana lagi. rasanya berantakan banget.,sedih,pekerjaan
+dapet rejection dari perusahaan yang paling gue impiin. susah nerima ini meskipun udah gue antisipasi.,sedih,pekerjaan
+udah kerja keras setahun tapi yang dapet promosi orang lain. gue ngerasa gak kelihatan sama sekali.,sedih,pekerjaan
+pekerjaan yang gue cintain terpaksa gue tinggalin karena kondisi yang gak bisa gue kontrol. nangis tiap inget.,sedih,pekerjaan
+ngerasa stuck di kerjaan yang gak bikin berkembang tapi gak ada pilihan lain sekarang. lelah dan hampa.,sedih,pekerjaan
+dia mutusin gue tadi malem dan gue masih belum bisa nangkep ini beneran terjadi.,sedih,relationship
+sahabat yang paling gue percaya ternyata udah lama menjauh tanpa gue tau kenapa. ngerasa kehilangan banget.,sedih,relationship
+gue udah cerita panjang tapi dia malah asik sama HP-nya. ngerasa gak dianggap dan sendirian.,sedih,relationship
+dia pindah kota dan tiba-tiba semua jadi terasa sepi. gue gak tau gue segitu rinduannya.,sedih,relationship
+kita putus atas kesepakatan bersama tapi gue tetap nangis setiap malem. gak bisa bohong sama diri sendiri.,sedih,relationship
+temen-temen gue semua udah punya pasangan dan gue ngerasa semakin ditinggal sendirian.,sedih,relationship
+nenek gue meninggal minggu lalu dan rumah terasa berbeda banget tanpanya. kangennya gak ilang-ilang.,sedih,keluarga
+hubungan gue sama bokap udah lama dingin dan gue capek nunggu ada yang berubah.,sedih,keluarga
+keluarga gue berantakan dan gue ngerasa gak punya rumah yang aman buat pulang.,sedih,keluarga
+ngeliat foto lama keluarga yang dulu harmonis bikin gue sedih banget sama apa yang udah hilang.,sedih,keluarga
+gue harus jaga adik sendirian karena semua orang terlalu sibuk. capek tapi gak bisa ngomong ke siapa.,sedih,keluarga
+dapet diagnosa yang gue takutin dan reaksi pertama gue cuma diam dan nangis di parkiran.,sedih,kesehatan
+gue udah coba berbagai cara buat pulih tapi badan gue kayak gak mau kerjasama. menyerah rasanya.,sedih,kesehatan
+ngeliat kondisi orang yang gue sayang menurun pelan-pelan itu melelahkan dan menyakitkan banget.,sedih,kesehatan
+udah berbulan-bulan ngerasa gak fit tapi belum ada yang tau kenapa. ngerasa sendirian ngadepin ini.,sedih,kesehatan
+jadwal pengobatan panjang bikin gue ngerasa hidup gue cuma soal sakit aja sekarang.,sedih,kesehatan
+harus jual barang kesayangan gue karena gak ada pilihan lain secara finansial. ngerasa kalah dan sedih.,sedih,finansial
+gue gagalin target finansial yang gue usahain selama setahun. ngerasa malu dan hampa.,sedih,finansial
+kehilangan simpanan besar karena penipuan. masih shock dan ngerasa menangis gak cukup.,sedih,finansial
+terpaksa minta bantuan finansial ke orangtua lagi di usia ini. ngerasa malu dan seperti gagal.,sedih,finansial
+utang numpuk dan gue gak liat jalan keluarnya. tiap malem susah tidur dan nangis sendirian.,sedih,finansial
+gue ngerasa kosong banget akhir-akhir ini dan gak tau kenapa. kayak ada yang hilang tapi gak tau apa.,sedih,self
+gue capek pura-pura baik-baik aja sementara sebenernya gue lagi berat banget di dalam.,sedih,self
+gue ngerasa jauh dari versi diri gue yang gue suka. gak tau cara baliknya gimana.,sedih,self
+tiap pagi gue bangun dan ngerasa berat yang sama. gue gak tau sampai kapan ini.,sedih,self
+gue nangis sendirian semalam tanpa tau jelas kenapa. cuma ngerasa sepi yang dalam banget.,sedih,self
+gue ngerasa gak ada yang beneran tau gue sebenernya gimana dan itu bikin gue makin sepi.,sedih,self
+berita duka yang gue terima hari ini bikin gue gak sanggup ngapa-ngapain seharian.,sedih,other
+ketemu seseorang yang ngingetin gue sama orang yang udah gak ada. kangen yang tiba-tiba menghantam.,sedih,other
+gue liat foto lama dan nangis gak jelas. kangen sama masa yang udah gak bisa balik.,sedih,other
+ngerasa dunia lagi gelap dan gue gak tau harus cari cahaya dari mana.,sedih,other
+gue ngerasa gak ada tempat di mana gue beneran diterima. sepi yang susah dijelasin.,sedih,other
+kenangan yang gue kira udah gue move on ternyata masih bisa bikin gue nangis hari ini.,sedih,other
+gue udah lembur berbulan-bulan tapi bonus yang dijanjikan tiba-tiba gak ada. gue beneran gak terima.,marah,pekerjaan
+ide gue dicuri atasan dan dipresentasiin sebagai miliknya di depan semua orang. gue mau ngomong tapi takut.,marah,pekerjaan
+gue dapet tugas double tapi gaji tidak berubah sementara yang lain santai-santai aja. gak adil sama sekali.,marah,pekerjaan
+gue dipecat lewat pesan singkat setelah tiga tahun loyal. gak ada penghargaan sama sekali. gue kesel banget.,marah,pekerjaan
+rekan kerja yang sering sabotase pekerjaan gue sekarang malah naik jabatan. sistem ini beneran rusak.,marah,pekerjaan
+dia janji sesuatu yang penting dan gak ditepatin untuk ketiga kalinya. gue udah gak tahan lagi.,marah,relationship
+gue tau dia bohong ke gue dan waktu gue konfrontasi malah balik nyalahin gue. gue beneran marah.,marah,relationship
+dia nyebarin hal privat yang gue ceritain ke orang-orang yang gue kenal. pengkhianatan yang susah gue maafin.,marah,relationship
+gue minta dia dengerin tapi terus diinterupsi dan akhirnya dia ngomongin masalahnya sendiri. gue kesel banget.,marah,relationship
+setelah semua yang gue lakuin dia pergi begitu aja tanpa penjelasan apapun. gue marah dan sakit sekaligus.,marah,relationship
+gue terus dibanding-bandingin sama sepupu yang lebih sukses dan gue capek banget sama perlakuan ini.,marah,keluarga
+keputusan besar soal hidup gue diambil keluarga tanpa tanya pendapat gue sama sekali. gue gak terima.,marah,keluarga
+gue udah bilang berkali-kali tapi keluarga gue tetap gak dengerin. ngerasa gak dihormati.,marah,keluarga
+keluarga gue harap gue urus semua tapi gak ada yang bantu waktu gue butuh. gak imbang dan melelahkan.,marah,keluarga
+mereka tau gue lagi susah tapi gak ada yang reach out. diem aja semua. gue kecewa dan marah.,marah,keluarga
+dokter kasih diagnosis yang salah dan gue minum obat yang gak gue butuhkan berbulan-bulan. ini serius.,marah,kesehatan
+gue dilayani dengan kasar di rumah sakit padahal gue lagi kondisi rentan. gue gak habis pikir.,marah,kesehatan
+sistem kesehatan yang harusnya nolong malah bikin gue makin stres dengan birokrasi yang gak masuk akal.,marah,kesehatan
+gue minta waktu sakit ditolak padahal kondisi gue beneran butuh istirahat. tubuh gue gak dianggap.,marah,kesehatan
+obat yang gue beli mahal ternyata palsu. gue marah dan ngerasa dikhianati sistem yang harusnya lindungi.,marah,kesehatan
+gue ketipu investasi bodong dan kehilangan tabungan bertahun-tahun. gue marah dan gak bisa diam.,marah,finansial
+bank naikin bunga kredit gue sepihak tanpa pemberitahuan layak. ini gak acceptable.,marah,finansial
+gue dapet tagihan dengan biaya tersembunyi yang gak pernah diinformasiin. ini penipuan terang-terangan.,marah,finansial
+perusahaan telat bayar gaji sudah tiga bulan dan terus berjanji tanpa kejelasan. gue capek diginiin.,marah,finansial
+hak gue atas pesangon ditolak dengan alasan yang dibuat-buat. gue akan fight ini.,marah,finansial
+gue marah sama diri sendiri karena terus ngulang kebiasaan yang gue tau jelek buat diri sendiri.,marah,self
+gue nyesel gak ngomong waktu masih ada kesempatan. kemarahan ini sebagian besar ke diri sendiri.,marah,self
+gue beneran frustrasi sama diri sendiri karena gak bisa berubah padahal udah usaha berkali-kali.,marah,self
+gue terlalu lama diam dan situasinya makin parah. gue marah sama pilihan gue sendiri.,marah,self
+gue tau gue bisa lebih baik dari ini dan kenyataan bahwa gue gak lakuin itu bikin gue frustrasi.,marah,self
+gue liat perlakuan gak adil ke seseorang di depan mata gue dan gue gak bisa diem.,marah,other
+kebijakan yang asal dibuat tanpa mikirin dampaknya ke orang-orang yang terdampak. gue gak terima.,marah,other
+orang yang harusnya bertanggung jawab malah kabur dan gak ada konsekuensi. bikin darah gue mendidih.,marah,other
+gue udah lapor tapi diabaikan terus. sampe kapan harus diem waktu ada yang salah.,marah,other
+sistem yang katanya adil tapi jelas berpihak ke yang punya uang dan koneksi. gue muak.,marah,other
+gue capek ngeliat ketidakadilan yang sama berulang dan semua orang pura-pura gak liat.,marah,other
+gue takut perusahaan bakal restrukturisasi dan posisi gue kena. tiap hari ngerasa was-was.,takut,pekerjaan
+setiap mau presentasi gue panik duluan. takut salah dan kelihatan gak kompeten di depan semua orang.,takut,pekerjaan
+gue takut kalau gue resign gue gak akan nemu yang lebih baik. jadi terjebak di sini karena ketakutan sendiri.,takut,pekerjaan
+gue ngerasa gak cukup bagus buat posisi ini dan takut ketahuan suatu saat nanti.,takut,pekerjaan
+gue mau minta naik gaji tapi takut banget ditolak dan malah bikin posisi gue rentan.,takut,pekerjaan
+gue dapet proyek lebih besar dari biasanya dan takut banget gagal dan mengecewakan semua orang.,takut,pekerjaan
+ada rumor PHK dan gue gak bisa tidur tiap malem mikirin kemungkinan itu kena ke gue.,takut,pekerjaan
+gue takut kalau gue terlalu jujur dia bakal pergi dan gue gak berani ambil risiko itu.,takut,relationship
+hubungan ini sedang baik tapi gue terus nunggu sesuatu yang buruk terjadi. gak bisa tenang.,takut,relationship
+gue takut komitmen karena pengalaman buruk sebelumnya dan itu nahan gue terus.,takut,relationship
+gue khawatir banget dia mulai menjauh tapi takut salah baca situasi kalau langsung tanya.,takut,relationship
+gue takut sendirian tapi juga takut kalau terlalu dekat sama seseorang dan kecewa lagi.,takut,relationship
+gue takut banget kehilangan hubungan ini dan ketakutan itu bikin gue justru jaga jarak.,takut,relationship
+kondisi kesehatan bokap memburuk dan gue takut banget sama kemungkinan yang selalu gue hindari dipikirin.,takut,keluarga
+gue takut kalau gue gak bisa jaga keluarga secara finansial ke depannya.,takut,keluarga
+dinamika keluarga lagi gak stabil dan gue takut sesuatu yang gak bisa dibalikin akan terjadi.,takut,keluarga
+gue khawatir terus sama adik gue yang lagi di fase rawan. gak bisa tidur tenang karenanya.,takut,keluarga
+gue takut kalau gue cerita ke keluarga mereka malah panik dan situasinya makin runyam.,takut,keluarga
+gue takut gak bisa jadi anak yang cukup baik sebelum waktunya habis.,takut,keluarga
+gue ngerasa ada yang gak beres di badan tapi takut banget ke dokter karena takut diagnosanya.,takut,kesehatan
+gue harus menjalani prosedur medis minggu ini dan gue panik nonstop seminggu terakhir.,takut,kesehatan
+gue baca gejala yang gue alami dan langsung spiral ke skenario terburuk. susah berhenti.,takut,kesehatan
+kondisi yang belum terdiagnosis bikin gue takut banget sama ketidakpastian ke depannya.,takut,kesehatan
+gue takut penyakit yang sama yang kena keluarga gue akan kena gue juga suatu saat.,takut,kesehatan
+setelah kejadian kesehatan mendadak itu gue jadi sangat takut sama tubuh gue sendiri.,takut,kesehatan
+gue takut ternyata yang gue rasain lebih serius dari yang gue kira tapi juga takut salah khawatir.,takut,kesehatan
+keadaan ekonomi bikin gue takut banget soal masa depan finansial gue yang masih gak jelas.,takut,finansial
+gue takut gak bisa bayar tagihan bulan depan dan itu bikin gue gak bisa fokus kerja.,takut,finansial
+gue takut ambil keputusan investasi besar karena takut salah dan kehilangan semuanya.,takut,finansial
+kondisi finansial yang tidak stabil bikin gue cemas nonstop soal masa depan.,takut,finansial
+gue takut jujur ke pasangan soal kondisi keuangan gue yang sebenarnya. takut dihakimi.,takut,finansial
+gue takut retire miskin dan pikiran itu kadang muncul di waktu yang gak gue sangka.,takut,finansial
+gue takut gak akan pernah beneran bahagia dan itu pikiran yang terus balik lagi.,takut,self
+gue takut perubahan besar meskipun keadaan sekarang juga gak bagus. stuck di ketakutan sendiri.,takut,self
+gue takut kalau gue akhirnya buka diri orang akan kecewa sama siapa gue sebenarnya.,takut,self
+gue takut masa depan karena gue gak bisa bayangin dengan jelas gue mau jadi siapa.,takut,self
+gue takut gagal bukan karena hasilnya tapi karena gue gak tau cara bangkit lagi kalau itu terjadi.,takut,self
+gue cemas hampir setiap hari tanpa alasan yang jelas dan itu sendiri bikin gue takut.,takut,self
+gue takut sama kondisi dunia sekarang dan gue gak tau gimana cara gue tetap tenang ngadepin semua ini.,takut,other
+gue fobia sesuatu yang gue tau gak rasional tapi tetap gak bisa gue kontrol.,takut,other
+gue panik waktu harus ada di keramaian dan gue gak tau gimana cara ngatasinnya.,takut,other
+gue takut sama hal yang harusnya gak perlu ditakutin tapi ketakutan itu terasa sangat nyata.,takut,other
+gue sulit tidur karena pikiran gue terus jalan duluan ke skenario yang belum tentu terjadi.,takut,other
+kecemasan gue makin parah belakangan ini dan gue gak tau harus mulai dari mana ngatasinnya.,takut,other
+gue takut buat bepergian sendirian sejak kejadian yang bikin gue trauma beberapa bulan lalu.,takut,other
+gue tiba-tiba dapet email bahwa gue terpilih masuk program eksklusif yang gue gak sadar udah ada.,kaget,pekerjaan
+rapat yang harusnya biasa jadi pengumuman merger yang gak ada yang sangka bakal secepat ini.,kaget,pekerjaan
+atasan baru gue ternyata orang yang dulu pernah jadi mentor gue. gak pernah kepikiran ketemu lagi di sini.,kaget,pekerjaan
+gue dapet feedback positif yang gak gue duga sama sekali dari reviewer yang paling kritis.,kaget,pekerjaan
+posisi yang gue lamar iseng ternyata yang diprioritasin dan gue langsung masuk final round.,kaget,pekerjaan
+klien yang gue anggap hilang tiba-tiba balik dengan proyek yang lebih besar dari sebelumnya.,kaget,pekerjaan
+dia bilang sesuatu yang nunjukin dia beneran dengerin gue selama ini dan gue gak nyangka.,kaget,relationship
+orang yang gue anggap biasa aja tiba-tiba nunjukin sisi yang bikin gue lihat dia dengan cara yang berbeda.,kaget,relationship
+seseorang yang gue gak expect tiba-tiba ada waktu gue lagi butuh dan itu bener-bener mengejutkan.,kaget,relationship
+percakapan santai kami tiba-tiba berubah jadi sesuatu yang lebih dalam dari yang gue siapkan.,kaget,relationship
+gue baru tau ada orang yang selama ini perhatiin gue dari jauh. gak nyangka sama sekali.,kaget,relationship
+teman yang terkesan cuek tiba-tiba kirim sesuatu yang nunjukin dia tau betul kondisi gue.,kaget,relationship
+ibu tiba-tiba cerita masa lalunya yang selama ini beliau rahasiakan. gue belum pernah tau sisi ini.,kaget,keluarga
+keluarga besar ngadain kejutan yang gak gue sangka sama sekali dan gue gak tau harus reaksi gimana.,kaget,keluarga
+ternyata ada anggota keluarga jauh yang selama ini nungguin kabar gue. gue gak tau dia ada.,kaget,keluarga
+bokap bilang proud sama gue dengan cara yang beda dari biasanya. gue masih proses ini.,kaget,keluarga
+gue baru tau ada sejarah keluarga yang disimpan rapat bertahun-tahun. bikin banyak hal masuk akal.,kaget,keluarga
+gue tes iseng dan hasilnya nunjukin sesuatu yang sama sekali gak gue duga ada.,kaget,kesehatan
+kondisi yang udah lama gue anggap normal ternyata perlu penanganan. gue gak nyangka selama ini salah paham.,kaget,kesehatan
+treatment yang gue anggap gak bakal berhasil ternyata kasih perubahan signifikan dalam waktu singkat.,kaget,kesehatan
+dokter yang biasanya datar tiba-tiba bilang gue udah sangat baik dan ini gak gue harapin.,kaget,kesehatan
+hasil tes yang gue takutin ternyata gak seseram yang gue bayangkan. lega sekaligus bingung sama ketakutan gue sendiri.,kaget,kesehatan
+gue dapet refund dari sesuatu yang gue udah lupa pernah bayarin. jumlahnya lumayan dan gue gak nyangka.,kaget,finansial
+tagihan yang gue estimate tinggi ternyata jauh lebih rendah dari yang gue siapkan.,kaget,finansial
+orang yang gue bantu dulu tiba-tiba mau bantu situasi finansial gue sekarang. gak nyangka.,kaget,finansial
+negosiasi yang gue pikir bakal gagal tiba-tiba berhasil dengan hasil jauh lebih baik dari ekspektasi.,kaget,finansial
+gue keliru hitung dan ternyata kondisi keuangan gue lebih baik dari yang gue pikir selama ini.,kaget,finansial
+gue reaksi dengan cara yang sama sekali beda dari biasanya dan diri gue sendiri jadi terkejut.,kaget,self
+gue baru sadar pola yang selama ini gue lakukan tanpa gue sadari dan ini ngubah perspektif gue.,kaget,self
+gue ternyata lebih kuat dari yang gue kira waktu ngadepin situasi yang berat tadi.,kaget,self
+gue memutuskan sesuatu yang tadinya gue pikir gak akan pernah bisa dan ternyata bisa.,kaget,self
+gue baru tau kalau selama ini gue udah berdampak ke orang lebih dari yang gue sadar.,kaget,self
+momen tadi bikin gue sadar ada bagian dari diri gue yang gue gak pernah kenal sebelumnya.,kaget,self
+kabar yang gue dapet hari ini sama sekali gak gue antisipasi dan masih gue proses.,kaget,other
+ending dari situasi yang udah lama gue ikutin ternyata beda banget dari semua skenario yang gue bayangin.,kaget,other
+gue ketemu seseorang secara kebetulan yang ternyata punya dampak besar ke hidup gue.,kaget,other
+sesuatu yang gue anggap sudah selesai tiba-tiba muncul lagi dengan cara yang gak gue expect.,kaget,other
+gue gak nyangka keputusan kecil yang gue ambil dulu bisa nyambung ke titik ini sekarang.,kaget,other
+hal yang gue asumsiin sudah hilang ternyata masih ada dan ini bikin gue bingung harus ngerasa apa.,kaget,other
+gue baru tau bahwa rekrutmen di sini pakai sistem titipan dan kualitas sama sekali gak relevan.,jijik,pekerjaan
+bos gue gaslight gue depan tim dan bikin gue keliatan salah padahal dokumen udah jelas. gue muak.,jijik,pekerjaan
+ada yang sengaja kasih gue proyek susah supaya gue gagal dan orang lain kelihatan lebih baik. menjijikkan.,jijik,pekerjaan
+harassment verbal yang terjadi di kantor dibalikin dengan 'bercanda'. gue gak bisa diem sama normalisasi ini.,jijik,pekerjaan
+gue diminta tutup mulut soal praktik curang dengan iming-iming yang harusnya gue tolak.,jijik,pekerjaan
+orang yang laporan kerjanya penuh kebohongan malah naik jabatan. gue yang liat semua prosesnya.,jijik,pekerjaan
+gue tau dia udah dusta ke gue berkali-kali dengan sangat disengaja. gue ngerasa gak bisa lanjut.,jijik,relationship
+orang yang gue percaya cerita hal privat gue ke banyak orang untuk bahan gosip. gue done.,jijik,relationship
+gue baru tau cara dia ngomongin gue di belakang dan itu sangat beda dari yang dia tunjukin ke gue.,jijik,relationship
+dia pakai kerentanan gue buat manipulasi gue dan gue baru sadar sekarang. gue merasa kotor.,jijik,relationship
+ternyata selama ini dia ada di sisi gue cuma buat akses sesuatu. bukan karena peduli. gue muak.,jijik,relationship
+sikap ganda yang dia tunjukin bikin gue ilfeel total. gak bisa lanjut setelah tau ini.,jijik,relationship
+gue baru tau cara keluarga gue ngomongin masalah finansial orang lain di belakang. sangat gak etis.,jijik,keluarga
+ada anggota keluarga yang sengaja bikin konflik antara orang-orang yang gue sayang demi keuntungan sendiri.,jijik,keluarga
+perlakuan yang gue liat ke orang yang bantu keluarga gue itu keterlaluan dan gue gak bisa diam terus.,jijik,keluarga
+cara keluarga gue handle masalah internal dengan menyalahkan yang paling lemah itu udah bikin gue muak.,jijik,keluarga
+gue tau ada yang manipulasi dokumen warisan dan yang paling dirugikan adalah yang paling gak tau. gue gak bisa terima.,jijik,keluarga
+lingkungan keluarga yang penuh perbandingan dan kompetisi gak sehat ini beneran menyiksa untuk dihadapi.,jijik,keluarga
+gue tau ada oknum nakes yang asal-asalan karena pasiennya dianggap gak mampu protes. gue marah dan jijik.,jijik,kesehatan
+klinik yang gue percaya ternyata rekomendasiin prosedur yang gak perlu demi komisi. gue merasa dieksploitasi.,jijik,kesehatan
+kondisi kebersihan tempat yang harusnya jadi fasilitas kesehatan itu di bawah standar manusiawi.,jijik,kesehatan
+gue dikasih informasi medis yang salah dan bikin gue khawatir berbulan-bulan tanpa alasan. gak bisa maafin.,jijik,kesehatan
+obat yang dijual mahal ternyata gak lebih efektif dari yang murah dan mereka tau ini. penipuan.,jijik,kesehatan
+tau cara fasilitas ini perlakukan pasien yang gak ada keluarganya itu bikin gue beneran mual.,jijik,kesehatan
+skema pinjaman yang ditawarkan ke orang yang udah susah itu predatory banget dan gue benci ini ada.,jijik,finansial
+gue tau cara perusahaan ini memperkaya diri sambil bayar karyawan di bawah upah minimum.,jijik,finansial
+sistem yang katanya lindungi konsumen ternyata ada di pihak perusahaan besar terus. gue gak percaya apapun.,jijik,finansial
+iklan yang menjanjikan ke orang rentan dengan produk gak berguna itu memanfaatkan kelemahan orang.,jijik,finansial
+cara bank ini markup semua biaya untuk nasabah kecil sambil kasih kemudahan ke nasabah premium itu gak adil.,jijik,finansial
+gue hampir kena penipuan yang sangat sophisticated. sistem ini beneran dibuat untuk eksploitasi.,jijik,finansial
+gue melakukan sesuatu yang bertentangan sama nilai gue sendiri dan gue merasa jijik sama diri sendiri.,jijik,self
+gue diam waktu harusnya ngomong dan sekarang gue gak bisa ngeliat diri sendiri di cermin.,jijik,self
+gue sadar gue udah ikut-ikutan dalam sesuatu yang salah dan itu makan gue dari dalam.,jijik,self
+gue ikut ketawa waktu harusnya gue bela seseorang dan itu membekas. gue kecewa sama diri sendiri.,jijik,self
+gue bertindak dengan cara yang gak konsisten sama prinsip gue dan sekarang gue harus hadapin itu.,jijik,self
+ada bagian dari diri gue yang gue beneran gak suka dan gue harus jujur sama itu.,jijik,self
+gue liat perlakuan ke hewan yang sangat kejam di tempat umum dan gue gak bisa keluar dari gambar itu.,jijik,other
+konten yang viral itu sangat merendahkan dan yang paling mengejutkan adalah orang-orang malah ketawa.,jijik,other
+sistem yang dibuat katanya untuk lindungi yang lemah malah jadi alat untuk eksploitasi lebih lanjut.,jijik,other
+gue liat orang yang dihormati di komunitas kelakuannya beda banget dari apa yang dia khotbahkan. muak.,jijik,other
+berita tentang pengabaian sistematis ke kelompok rentan itu bikin gue gak bisa lanjut aktivitas normal.,jijik,other
+lingkungan yang penuh toxic positivity untuk menutupi masalah nyata itu melelahkan sekaligus menjijikkan.,jijik,other
+gue lagi dalam proses evaluasi karir. belum tau arah mana yang mau gue ambil.,netral,pekerjaan
+ada meeting besar minggu depan dan gue lagi persiapan. belum ada antusias atau khawatir yang dominan.,netral,pekerjaan
+gue baru pindah ke divisi baru dan masih dalam fase observasi. belum bisa bilang cocok atau enggak.,netral,pekerjaan
+workload gue sekarang standar. gak overload gak terlalu santai juga.,netral,pekerjaan
+gue lagi coba habit baru di tempat kerja. belum keliatan hasilnya tapi gue jalanin aja.,netral,pekerjaan
+komunikasi kami masih jalan tapi belum ada yang spesifik yang perlu gue ceritain.,netral,relationship
+gue dan dia lagi di fase yang tenang. gak ada drama tapi juga gak ada perkembangan spesifik.,netral,relationship
+gue baru ikut komunitas baru dan masih dalam mode kenalan. belum ada yang bikin gue excited atau gak nyaman.,netral,relationship
+hubungan kami jalan normal. ada hal yang mau gue evaluasi tapi belum mendesak.,netral,relationship
+keluarga lagi dalam ritme yang biasa. gak ada yang besar tapi juga gak ada yang bermasalah.,netral,keluarga
+gue mau ngobrol soal sesuatu sama orangtua tapi masih nyari waktu yang pas.,netral,keluarga
+adik gue lagi sibuk dengan urusannya. kami gak sering kontak tapi gak ada masalah.,netral,keluarga
+ada hal kecil di keluarga yang lagi gue perhatiin. belum bisa gue simpulkan apa-apa sekarang.,netral,keluarga
+gue lagi jalanin routine medical checkup. sejauh ini proses berjalan normal.,netral,kesehatan
+ada kebiasaan kesehatan yang lagi gue coba bikin lebih konsisten. hasilnya belum kelihatan.,netral,kesehatan
+gue lagi pantau kondisi tertentu yang dokter minta gue observasi. gak ada yang alarming sejauh ini.,netral,kesehatan
+gue mulai journaling kesehatan untuk lebih aware sama pola yang ada. masih terlalu awal.,netral,kesehatan
+gue lagi review pengeluaran bulan ini. belum gue simpulkan tapi secara umum dalam kendali.,netral,finansial
+ada keputusan finansial yang lagi gue pertimbangin. masih dalam fase riset.,netral,finansial
+bulan ini pengeluaran dan income gue seimbang. flat tapi stabil.,netral,finansial
+gue lagi belajar soal instrumen investasi baru. masih terlalu awal untuk ambil langkah apapun.,netral,finansial
+gue lagi di fase yang biasa aja. gak ada yang spesifik yang mau gue ceritain sebenernya.,netral,self
+gue buka jurnal hari ini tapi gak banyak yang mau gue tulis. pikiran gue tenang tapi kosong.,netral,self
+gue lagi observasi pola dalam diri gue sebelum gue ambil kesimpulan apapun.,netral,self
+gue gak ngerasa sesuatu yang kuat hari ini. lebih ke mode autopilot.,netral,self
+gue ada di masa transisi tapi belum merasakan beban maupun euforia yang jelas dari itu.,netral,self
+gue lagi njalani hari yang biasa. ada beberapa hal yang mau gue pikirin tapi belum mendesak.,netral,other
+gue ikut acara tadi. biasa aja. gak ada yang sangat berkesan atau sangat negatif.,netral,other
+gue mau mulai ngobrol soal sesuatu tapi masih mengumpulkan pikiran dulu.,netral,other
+belum ada yang berat atau yang sangat menyenangkan hari ini. gue oke-oke saja.,netral,other
+gue lagi coba hal baru pekan ini. belum tau ini akan jadi rutinitas atau cuma sekali.,netral,other
+gue udah bilang berkali-kali tapi gak ada yang dengerin. kesel banget rasanya diabaikan terus-terusan.,marah,other
+gue bete banget sama sikap dia yang terus ngeles padahal udah jelas salah.,marah,relationship
+gue dongkol karena udah usaha keras tapi hasilnya diklaim orang lain.,marah,pekerjaan
+sistem yang bikin gue harus ngulang dari awal padahal udah sampe tahap akhir. sebel.,marah,other
+gue kesel sama diri sendiri karena ngulang kesalahan yang sama.,marah,self
+bete banget liat perlakuan gak adil ini terus terjadi tanpa ada konsekuensi.,marah,other
+gue dongkol banget karena janji yang udah dibuat berkali-kali gak pernah ditepatin.,marah,relationship
+kesel rasanya harus ngadepin orang yang terus manipulasi situasi demi keuntungan dia.,marah,relationship
+gue bete sama keluarga yang terus ngomongin hal yang udah gue bilang gak mau dibahas.,marah,keluarga
+dongkol karena tagihan yang harusnya udah clear malah nambah terus tanpa penjelasan.,marah,finansial
+gue sebel banget sama treatment yang gue dapet padahal gue udah ngasih effort maksimal.,marah,pekerjaan
+kesel sama sistem kesehatan yang bikin gue mutar-mutar gak jelas.,marah,kesehatan
